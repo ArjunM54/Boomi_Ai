@@ -1,0 +1,7486 @@
+{
+  "type": "FeatureCollection",
+  "name": "BhoomiAI_Synthetic_Parcels",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "P-00102",
+      "properties": {
+        "parcel_id": "P-00102",
+        "survey_number": "102/3A",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 2.4,
+        "land_type": "Agricultural",
+        "latitude": 26.9124,
+        "longitude": 75.7873,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.78580000000001,
+                26.9114
+              ],
+              [
+                75.7885,
+                26.9112
+              ],
+              [
+                75.7891,
+                26.913500000000003
+              ],
+              [
+                75.7863,
+                26.913800000000002
+              ],
+              [
+                75.78580000000001,
+                26.9114
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "HIGH",
+        "owner_name": "Demo Land Records (Synthetic)",
+        "last_survey_date": "2025-01-15",
+        "latest_change": "Potential Construction Detected",
+        "is_demo_target": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78580000000001,
+              26.9114
+            ],
+            [
+              75.7885,
+              26.9112
+            ],
+            [
+              75.7891,
+              26.913500000000003
+            ],
+            [
+              75.7863,
+              26.913800000000002
+            ],
+            [
+              75.78580000000001,
+              26.9114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00002",
+      "properties": {
+        "parcel_id": "P-00002",
+        "survey_number": "337/2C",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 7.59,
+        "land_type": "Agricultural",
+        "latitude": 26.911925,
+        "longitude": 75.787075,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.78644110287549,
+                26.91105677514814
+              ],
+              [
+                75.78777963555623,
+                26.91105677514814
+              ],
+              [
+                75.78770895576126,
+                26.912793246362305
+              ],
+              [
+                75.7862842310484,
+                26.912793246362305
+              ],
+              [
+                75.78644110287549,
+                26.91105677514814
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 2 (Synthetic)",
+        "last_survey_date": "2024-04-17",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78644110287549,
+              26.91105677514814
+            ],
+            [
+              75.78777963555623,
+              26.91105677514814
+            ],
+            [
+              75.78770895576126,
+              26.912793246362305
+            ],
+            [
+              75.7862842310484,
+              26.912793246362305
+            ],
+            [
+              75.78644110287549,
+              26.91105677514814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00003",
+      "properties": {
+        "parcel_id": "P-00003",
+        "survey_number": "268/1D",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 0.58,
+        "land_type": "Industrial",
+        "latitude": 26.912461,
+        "longitude": 75.791516,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79059522462877,
+                26.911751485152458
+              ],
+              [
+                75.7924164982156,
+                26.911751485152458
+              ],
+              [
+                75.79243681459708,
+                26.91317100497342
+              ],
+              [
+                75.79068394834547,
+                26.91317100497342
+              ],
+              [
+                75.79059522462877,
+                26.911751485152458
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 3 (Synthetic)",
+        "last_survey_date": "2024-06-18",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79059522462877,
+              26.911751485152458
+            ],
+            [
+              75.7924164982156,
+              26.911751485152458
+            ],
+            [
+              75.79243681459708,
+              26.91317100497342
+            ],
+            [
+              75.79068394834547,
+              26.91317100497342
+            ],
+            [
+              75.79059522462877,
+              26.911751485152458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00004",
+      "properties": {
+        "parcel_id": "P-00004",
+        "survey_number": "89/4E",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 1.02,
+        "land_type": "Industrial",
+        "latitude": 26.912857,
+        "longitude": 75.795137,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79458094703908,
+                26.91230885488379
+              ],
+              [
+                75.79583123979768,
+                26.91230885488379
+              ],
+              [
+                75.79569224205115,
+                26.913405571260625
+              ],
+              [
+                75.79453945662654,
+                26.913405571260625
+              ],
+              [
+                75.79458094703908,
+                26.91230885488379
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 4 (Synthetic)",
+        "last_survey_date": "2024-07-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79458094703908,
+              26.91230885488379
+            ],
+            [
+              75.79583123979768,
+              26.91230885488379
+            ],
+            [
+              75.79569224205115,
+              26.913405571260625
+            ],
+            [
+              75.79453945662654,
+              26.913405571260625
+            ],
+            [
+              75.79458094703908,
+              26.91230885488379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00005",
+      "properties": {
+        "parcel_id": "P-00005",
+        "survey_number": "292/5A",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 9.78,
+        "land_type": "Government",
+        "latitude": 26.912729,
+        "longitude": 75.799419,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79840149561218,
+                26.911940728591627
+              ],
+              [
+                75.80051737262703,
+                26.911940728591627
+              ],
+              [
+                75.80043554389255,
+                26.913518080736882
+              ],
+              [
+                75.79858316585872,
+                26.913518080736882
+              ],
+              [
+                75.79840149561218,
+                26.911940728591627
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 5 (Synthetic)",
+        "last_survey_date": "2024-02-22",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79840149561218,
+              26.911940728591627
+            ],
+            [
+              75.80051737262703,
+              26.911940728591627
+            ],
+            [
+              75.80043554389255,
+              26.913518080736882
+            ],
+            [
+              75.79858316585872,
+              26.913518080736882
+            ],
+            [
+              75.79840149561218,
+              26.911940728591627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00006",
+      "properties": {
+        "parcel_id": "P-00006",
+        "survey_number": "152/8B",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 1.36,
+        "land_type": "Water Body",
+        "latitude": 26.916036,
+        "longitude": 75.787165,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.7864427235987,
+                26.915430930928878
+              ],
+              [
+                75.78779373188807,
+                26.915430930928878
+              ],
+              [
+                75.78788694075925,
+                26.91664043795965
+              ],
+              [
+                75.78626806176361,
+                26.91664043795965
+              ],
+              [
+                75.7864427235987,
+                26.915430930928878
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 6 (Synthetic)",
+        "last_survey_date": "2024-04-15",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7864427235987,
+              26.915430930928878
+            ],
+            [
+              75.78779373188807,
+              26.915430930928878
+            ],
+            [
+              75.78788694075925,
+              26.91664043795965
+            ],
+            [
+              75.78626806176361,
+              26.91664043795965
+            ],
+            [
+              75.7864427235987,
+              26.915430930928878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00007",
+      "properties": {
+        "parcel_id": "P-00007",
+        "survey_number": "246/7C",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 3.25,
+        "land_type": "Agricultural",
+        "latitude": 26.91567,
+        "longitude": 75.791725,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79081249400457,
+                26.9150601402398
+              ],
+              [
+                75.79256800144844,
+                26.9150601402398
+              ],
+              [
+                75.79263828835468,
+                26.916279755413772
+              ],
+              [
+                75.79070516857354,
+                26.916279755413772
+              ],
+              [
+                75.79081249400457,
+                26.9150601402398
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 7 (Synthetic)",
+        "last_survey_date": "2024-07-18",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79081249400457,
+              26.9150601402398
+            ],
+            [
+              75.79256800144844,
+              26.9150601402398
+            ],
+            [
+              75.79263828835468,
+              26.916279755413772
+            ],
+            [
+              75.79070516857354,
+              26.916279755413772
+            ],
+            [
+              75.79081249400457,
+              26.9150601402398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00008",
+      "properties": {
+        "parcel_id": "P-00008",
+        "survey_number": "43/4D",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 6.01,
+        "land_type": "Water Body",
+        "latitude": 26.916313,
+        "longitude": 75.795367,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79443643148905,
+                26.915706822852158
+              ],
+              [
+                75.79629762111769,
+                26.915706822852158
+              ],
+              [
+                75.7962979286139,
+                26.91691944939621
+              ],
+              [
+                75.7942825582275,
+                26.91691944939621
+              ],
+              [
+                75.79443643148905,
+                26.915706822852158
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 8 (Synthetic)",
+        "last_survey_date": "2024-09-27",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79443643148905,
+              26.915706822852158
+            ],
+            [
+              75.79629762111769,
+              26.915706822852158
+            ],
+            [
+              75.7962979286139,
+              26.91691944939621
+            ],
+            [
+              75.7942825582275,
+              26.91691944939621
+            ],
+            [
+              75.79443643148905,
+              26.915706822852158
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00009",
+      "properties": {
+        "parcel_id": "P-00009",
+        "survey_number": "144/7E",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 10.83,
+        "land_type": "Agricultural",
+        "latitude": 26.916298,
+        "longitude": 75.799199,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.79856780804965,
+                26.915299054080357
+              ],
+              [
+                75.7998348034781,
+                26.915299054080357
+              ],
+              [
+                75.79983099296064,
+                26.91729659168685
+              ],
+              [
+                75.79873144428478,
+                26.91729659168685
+              ],
+              [
+                75.79856780804965,
+                26.915299054080357
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 9 (Synthetic)",
+        "last_survey_date": "2024-07-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.79856780804965,
+              26.915299054080357
+            ],
+            [
+              75.7998348034781,
+              26.915299054080357
+            ],
+            [
+              75.79983099296064,
+              26.91729659168685
+            ],
+            [
+              75.79873144428478,
+              26.91729659168685
+            ],
+            [
+              75.79856780804965,
+              26.915299054080357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00010",
+      "properties": {
+        "parcel_id": "P-00010",
+        "survey_number": "207/7A",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 8.68,
+        "land_type": "Agricultural",
+        "latitude": 26.919496,
+        "longitude": 75.787268,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.7866172014158,
+                26.918719275480257
+              ],
+              [
+                75.78809587070432,
+                26.918719275480257
+              ],
+              [
+                75.78791889835978,
+                26.920272501376473
+              ],
+              [
+                75.7865450880517,
+                26.920272501376473
+              ],
+              [
+                75.7866172014158,
+                26.918719275480257
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 10 (Synthetic)",
+        "last_survey_date": "2024-06-13",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7866172014158,
+              26.918719275480257
+            ],
+            [
+              75.78809587070432,
+              26.918719275480257
+            ],
+            [
+              75.78791889835978,
+              26.920272501376473
+            ],
+            [
+              75.7865450880517,
+              26.920272501376473
+            ],
+            [
+              75.7866172014158,
+              26.918719275480257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00011",
+      "properties": {
+        "parcel_id": "P-00011",
+        "survey_number": "160/7B",
+        "village": "Rampur",
+        "district": "Jaipur",
+        "area_acres": 11.45,
+        "land_type": "Forest / Green Belt",
+        "latitude": 26.919058,
+        "longitude": 75.790803,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                75.78986999007932,
+                26.918198317419904
+              ],
+              [
+                75.79192525579245,
+                26.918198317419904
+              ],
+              [
+                75.7917365005529,
+                26.91991799808879
+              ],
+              [
+                75.7897652051997,
+                26.91991799808879
+              ],
+              [
+                75.78986999007932,
+                26.918198317419904
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 11 (Synthetic)",
+        "last_survey_date": "2024-09-16",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.78986999007932,
+              26.918198317419904
+            ],
+            [
+              75.79192525579245,
+              26.918198317419904
+            ],
+            [
+              75.7917365005529,
+              26.91991799808879
+            ],
+            [
+              75.7897652051997,
+              26.91991799808879
+            ],
+            [
+              75.78986999007932,
+              26.918198317419904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00012",
+      "properties": {
+        "parcel_id": "P-00012",
+        "survey_number": "88/6C",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 1.84,
+        "land_type": "Agricultural",
+        "latitude": 26.574563,
+        "longitude": 74.865739,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86477220314293,
+                26.573797333963977
+              ],
+              [
+                74.86650678367575,
+                26.573797333963977
+              ],
+              [
+                74.8667065549173,
+                26.57532768763617
+              ],
+              [
+                74.86484254072013,
+                26.57532768763617
+              ],
+              [
+                74.86477220314293,
+                26.573797333963977
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 12 (Synthetic)",
+        "last_survey_date": "2024-04-11",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86477220314293,
+              26.573797333963977
+            ],
+            [
+              74.86650678367575,
+              26.573797333963977
+            ],
+            [
+              74.8667065549173,
+              26.57532768763617
+            ],
+            [
+              74.86484254072013,
+              26.57532768763617
+            ],
+            [
+              74.86477220314293,
+              26.573797333963977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00013",
+      "properties": {
+        "parcel_id": "P-00013",
+        "survey_number": "133/2D",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 11.86,
+        "land_type": "Commercial",
+        "latitude": 26.573886,
+        "longitude": 74.869686,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86914446295225,
+                26.573005352369442
+              ],
+              [
+                74.87033385174612,
+                26.573005352369442
+              ],
+              [
+                74.8702275179744,
+                26.574765954534698
+              ],
+              [
+                74.86929310636646,
+                26.574765954534698
+              ],
+              [
+                74.86914446295225,
+                26.573005352369442
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 13 (Synthetic)",
+        "last_survey_date": "2024-07-16",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86914446295225,
+              26.573005352369442
+            ],
+            [
+              74.87033385174612,
+              26.573005352369442
+            ],
+            [
+              74.8702275179744,
+              26.574765954534698
+            ],
+            [
+              74.86929310636646,
+              26.574765954534698
+            ],
+            [
+              74.86914446295225,
+              26.573005352369442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00014",
+      "properties": {
+        "parcel_id": "P-00014",
+        "survey_number": "286/4E",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 3.2,
+        "land_type": "Government",
+        "latitude": 26.574513,
+        "longitude": 74.873599,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.87269598012422,
+                26.573826238721555
+              ],
+              [
+                74.87466185010965,
+                26.573826238721555
+              ],
+              [
+                74.87450200447579,
+                26.575199659224086
+              ],
+              [
+                74.87271538566766,
+                26.575199659224086
+              ],
+              [
+                74.87269598012422,
+                26.573826238721555
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 14 (Synthetic)",
+        "last_survey_date": "2024-09-17",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.87269598012422,
+              26.573826238721555
+            ],
+            [
+              74.87466185010965,
+              26.573826238721555
+            ],
+            [
+              74.87450200447579,
+              26.575199659224086
+            ],
+            [
+              74.87271538566766,
+              26.575199659224086
+            ],
+            [
+              74.87269598012422,
+              26.573826238721555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00015",
+      "properties": {
+        "parcel_id": "P-00015",
+        "survey_number": "311/4A",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 3.36,
+        "land_type": "Forest / Green Belt",
+        "latitude": 26.573807,
+        "longitude": 74.877908,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.87737251668642,
+                26.573273490674932
+              ],
+              [
+                74.8782557303899,
+                26.573273490674932
+              ],
+              [
+                74.87844316520668,
+                26.574340891003043
+              ],
+              [
+                74.8774403452908,
+                26.574340891003043
+              ],
+              [
+                74.87737251668642,
+                26.573273490674932
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 15 (Synthetic)",
+        "last_survey_date": "2024-09-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.87737251668642,
+              26.573273490674932
+            ],
+            [
+              74.8782557303899,
+              26.573273490674932
+            ],
+            [
+              74.87844316520668,
+              26.574340891003043
+            ],
+            [
+              74.8774403452908,
+              26.574340891003043
+            ],
+            [
+              74.87737251668642,
+              26.573273490674932
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00016",
+      "properties": {
+        "parcel_id": "P-00016",
+        "survey_number": "302/8B",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 6.1,
+        "land_type": "Commercial",
+        "latitude": 26.577543,
+        "longitude": 74.865673,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86492873696605,
+                26.57699583434415
+              ],
+              [
+                74.86648080201965,
+                26.57699583434415
+              ],
+              [
+                74.86641720891984,
+                26.578090160140643
+              ],
+              [
+                74.86498701793941,
+                26.578090160140643
+              ],
+              [
+                74.86492873696605,
+                26.57699583434415
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 16 (Synthetic)",
+        "last_survey_date": "2024-01-22",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86492873696605,
+              26.57699583434415
+            ],
+            [
+              74.86648080201965,
+              26.57699583434415
+            ],
+            [
+              74.86641720891984,
+              26.578090160140643
+            ],
+            [
+              74.86498701793941,
+              26.578090160140643
+            ],
+            [
+              74.86492873696605,
+              26.57699583434415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00017",
+      "properties": {
+        "parcel_id": "P-00017",
+        "survey_number": "183/2C",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 5.82,
+        "land_type": "Agricultural",
+        "latitude": 26.577549,
+        "longitude": 74.86939,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86862104077976,
+                26.576837715514003
+              ],
+              [
+                74.87007079509502,
+                26.576837715514003
+              ],
+              [
+                74.87015937703715,
+                26.57825959715384
+              ],
+              [
+                74.86872111820061,
+                26.57825959715384
+              ],
+              [
+                74.86862104077976,
+                26.576837715514003
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 17 (Synthetic)",
+        "last_survey_date": "2024-02-11",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86862104077976,
+              26.576837715514003
+            ],
+            [
+              74.87007079509502,
+              26.576837715514003
+            ],
+            [
+              74.87015937703715,
+              26.57825959715384
+            ],
+            [
+              74.86872111820061,
+              26.57825959715384
+            ],
+            [
+              74.86862104077976,
+              26.576837715514003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00018",
+      "properties": {
+        "parcel_id": "P-00018",
+        "survey_number": "343/9D",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 10.88,
+        "land_type": "Government",
+        "latitude": 26.578136,
+        "longitude": 74.874169,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.87311317606748,
+                26.577211679717873
+              ],
+              [
+                74.87509134089133,
+                26.577211679717873
+              ],
+              [
+                74.87522481644709,
+                26.57906037545229
+              ],
+              [
+                74.8731189196173,
+                26.57906037545229
+              ],
+              [
+                74.87311317606748,
+                26.577211679717873
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 18 (Synthetic)",
+        "last_survey_date": "2024-07-10",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.87311317606748,
+              26.577211679717873
+            ],
+            [
+              74.87509134089133,
+              26.577211679717873
+            ],
+            [
+              74.87522481644709,
+              26.57906037545229
+            ],
+            [
+              74.8731189196173,
+              26.57906037545229
+            ],
+            [
+              74.87311317606748,
+              26.577211679717873
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00019",
+      "properties": {
+        "parcel_id": "P-00019",
+        "survey_number": "209/5E",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 9.12,
+        "land_type": "Water Body",
+        "latitude": 26.578227,
+        "longitude": 74.877985,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.87731397981943,
+                26.57737822232176
+              ],
+              [
+                74.87874848102113,
+                26.57737822232176
+              ],
+              [
+                74.87865627889417,
+                26.57907481382536
+              ],
+              [
+                74.87720063520804,
+                26.57907481382536
+              ],
+              [
+                74.87731397981943,
+                26.57737822232176
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 19 (Synthetic)",
+        "last_survey_date": "2024-04-11",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.87731397981943,
+              26.57737822232176
+            ],
+            [
+              74.87874848102113,
+              26.57737822232176
+            ],
+            [
+              74.87865627889417,
+              26.57907481382536
+            ],
+            [
+              74.87720063520804,
+              26.57907481382536
+            ],
+            [
+              74.87731397981943,
+              26.57737822232176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00020",
+      "properties": {
+        "parcel_id": "P-00020",
+        "survey_number": "306/9A",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 12.03,
+        "land_type": "Agricultural",
+        "latitude": 26.580861,
+        "longitude": 74.865514,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86498351940742,
+                26.580122563312923
+              ],
+              [
+                74.86621144506447,
+                26.580122563312923
+              ],
+              [
+                74.86604369021214,
+                26.581599351830032
+              ],
+              [
+                74.86497106895331,
+                26.581599351830032
+              ],
+              [
+                74.86498351940742,
+                26.580122563312923
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 20 (Synthetic)",
+        "last_survey_date": "2024-02-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86498351940742,
+              26.580122563312923
+            ],
+            [
+              74.86621144506447,
+              26.580122563312923
+            ],
+            [
+              74.86604369021214,
+              26.581599351830032
+            ],
+            [
+              74.86497106895331,
+              26.581599351830032
+            ],
+            [
+              74.86498351940742,
+              26.580122563312923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00021",
+      "properties": {
+        "parcel_id": "P-00021",
+        "survey_number": "130/7B",
+        "village": "Kishangarh",
+        "district": "Ajmer",
+        "area_acres": 7.28,
+        "land_type": "Forest / Green Belt",
+        "latitude": 26.58092,
+        "longitude": 74.87009,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.86944255810546,
+                26.58012262703718
+              ],
+              [
+                74.87078576912695,
+                26.58012262703718
+              ],
+              [
+                74.87073801652282,
+                26.581717146190716
+              ],
+              [
+                74.86947486813932,
+                26.581717146190716
+              ],
+              [
+                74.86944255810546,
+                26.58012262703718
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 21 (Synthetic)",
+        "last_survey_date": "2024-04-20",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.86944255810546,
+              26.58012262703718
+            ],
+            [
+              74.87078576912695,
+              26.58012262703718
+            ],
+            [
+              74.87073801652282,
+              26.581717146190716
+            ],
+            [
+              74.86947486813932,
+              26.581717146190716
+            ],
+            [
+              74.86944255810546,
+              26.58012262703718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00022",
+      "properties": {
+        "parcel_id": "P-00022",
+        "survey_number": "132/5C",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 7.95,
+        "land_type": "Commercial",
+        "latitude": 18.520296,
+        "longitude": 73.856872,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.85619169197508,
+                18.519637697248655
+              ],
+              [
+                73.8576524342678,
+                18.519637697248655
+              ],
+              [
+                73.85755168847083,
+                18.520953874444928
+              ],
+              [
+                73.85636267472928,
+                18.520953874444928
+              ],
+              [
+                73.85619169197508,
+                18.519637697248655
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 22 (Synthetic)",
+        "last_survey_date": "2024-02-27",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85619169197508,
+              18.519637697248655
+            ],
+            [
+              73.8576524342678,
+              18.519637697248655
+            ],
+            [
+              73.85755168847083,
+              18.520953874444928
+            ],
+            [
+              73.85636267472928,
+              18.520953874444928
+            ],
+            [
+              73.85619169197508,
+              18.519637697248655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00023",
+      "properties": {
+        "parcel_id": "P-00023",
+        "survey_number": "119/9D",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 7.02,
+        "land_type": "Industrial",
+        "latitude": 18.520165,
+        "longitude": 73.861133,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.8601047408738,
+                18.519225565293507
+              ],
+              [
+                73.86210958871771,
+                18.519225565293507
+              ],
+              [
+                73.86216177788222,
+                18.52110483553599
+              ],
+              [
+                73.86024164214085,
+                18.52110483553599
+              ],
+              [
+                73.8601047408738,
+                18.519225565293507
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 23 (Synthetic)",
+        "last_survey_date": "2024-01-27",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8601047408738,
+              18.519225565293507
+            ],
+            [
+              73.86210958871771,
+              18.519225565293507
+            ],
+            [
+              73.86216177788222,
+              18.52110483553599
+            ],
+            [
+              73.86024164214085,
+              18.52110483553599
+            ],
+            [
+              73.8601047408738,
+              18.519225565293507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00024",
+      "properties": {
+        "parcel_id": "P-00024",
+        "survey_number": "163/2E",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 3.03,
+        "land_type": "Forest / Green Belt",
+        "latitude": 18.520839,
+        "longitude": 73.864334,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.86376503391213,
+                18.52028541201507
+              ],
+              [
+                73.864924837773,
+                18.52028541201507
+              ],
+              [
+                73.86490354831665,
+                18.52139244799278
+              ],
+              [
+                73.86385609462721,
+                18.52139244799278
+              ],
+              [
+                73.86376503391213,
+                18.52028541201507
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 24 (Synthetic)",
+        "last_survey_date": "2024-09-25",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.86376503391213,
+              18.52028541201507
+            ],
+            [
+              73.864924837773,
+              18.52028541201507
+            ],
+            [
+              73.86490354831665,
+              18.52139244799278
+            ],
+            [
+              73.86385609462721,
+              18.52139244799278
+            ],
+            [
+              73.86376503391213,
+              18.52028541201507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00025",
+      "properties": {
+        "parcel_id": "P-00025",
+        "survey_number": "138/1A",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 2.44,
+        "land_type": "Residential",
+        "latitude": 18.519992,
+        "longitude": 73.868624,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.86795756763819,
+                18.51949052562317
+              ],
+              [
+                73.86939803159618,
+                18.51949052562317
+              ],
+              [
+                73.86928958390696,
+                18.520494071312257
+              ],
+              [
+                73.86790272228727,
+                18.520494071312257
+              ],
+              [
+                73.86795756763819,
+                18.51949052562317
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 25 (Synthetic)",
+        "last_survey_date": "2024-09-10",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.86795756763819,
+              18.51949052562317
+            ],
+            [
+              73.86939803159618,
+              18.51949052562317
+            ],
+            [
+              73.86928958390696,
+              18.520494071312257
+            ],
+            [
+              73.86790272228727,
+              18.520494071312257
+            ],
+            [
+              73.86795756763819,
+              18.51949052562317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00026",
+      "properties": {
+        "parcel_id": "P-00026",
+        "survey_number": "67/2B",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 2.03,
+        "land_type": "Commercial",
+        "latitude": 18.524345,
+        "longitude": 73.856891,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.85630158705247,
+                18.523827036870014
+              ],
+              [
+                73.85742813858886,
+                18.523827036870014
+              ],
+              [
+                73.85748045219505,
+                18.524863065008073
+              ],
+              [
+                73.85628057701378,
+                18.524863065008073
+              ],
+              [
+                73.85630158705247,
+                18.523827036870014
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 26 (Synthetic)",
+        "last_survey_date": "2024-06-16",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85630158705247,
+              18.523827036870014
+            ],
+            [
+              73.85742813858886,
+              18.523827036870014
+            ],
+            [
+              73.85748045219505,
+              18.524863065008073
+            ],
+            [
+              73.85628057701378,
+              18.524863065008073
+            ],
+            [
+              73.85630158705247,
+              18.523827036870014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00027",
+      "properties": {
+        "parcel_id": "P-00027",
+        "survey_number": "137/2C",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 10.88,
+        "land_type": "Government",
+        "latitude": 18.523754,
+        "longitude": 73.86076,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.85973505588503,
+                18.522766760123293
+              ],
+              [
+                73.86188450219774,
+                18.522766760123293
+              ],
+              [
+                73.86178471115328,
+                18.524740597145932
+              ],
+              [
+                73.859564750356,
+                18.524740597145932
+              ],
+              [
+                73.85973505588503,
+                18.522766760123293
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 27 (Synthetic)",
+        "last_survey_date": "2024-07-10",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85973505588503,
+              18.522766760123293
+            ],
+            [
+              73.86188450219774,
+              18.522766760123293
+            ],
+            [
+              73.86178471115328,
+              18.524740597145932
+            ],
+            [
+              73.859564750356,
+              18.524740597145932
+            ],
+            [
+              73.85973505588503,
+              18.522766760123293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00028",
+      "properties": {
+        "parcel_id": "P-00028",
+        "survey_number": "101/6D",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 1.8,
+        "land_type": "Water Body",
+        "latitude": 18.524182,
+        "longitude": 73.864612,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.86370976888898,
+                18.52331485772673
+              ],
+              [
+                73.86541292434057,
+                18.52331485772673
+              ],
+              [
+                73.86551365744413,
+                18.525049915265562
+              ],
+              [
+                73.86384608975179,
+                18.525049915265562
+              ],
+              [
+                73.86370976888898,
+                18.52331485772673
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 28 (Synthetic)",
+        "last_survey_date": "2024-04-16",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.86370976888898,
+              18.52331485772673
+            ],
+            [
+              73.86541292434057,
+              18.52331485772673
+            ],
+            [
+              73.86551365744413,
+              18.525049915265562
+            ],
+            [
+              73.86384608975179,
+              18.525049915265562
+            ],
+            [
+              73.86370976888898,
+              18.52331485772673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00029",
+      "properties": {
+        "parcel_id": "P-00029",
+        "survey_number": "245/6E",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 1.33,
+        "land_type": "Industrial",
+        "latitude": 18.523705,
+        "longitude": 73.868995,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.86835878820672,
+                18.523193358649984
+              ],
+              [
+                73.86950915470693,
+                18.523193358649984
+              ],
+              [
+                73.8696319027916,
+                18.524217023084688
+              ],
+              [
+                73.86842748342625,
+                18.524217023084688
+              ],
+              [
+                73.86835878820672,
+                18.523193358649984
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 29 (Synthetic)",
+        "last_survey_date": "2024-09-22",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.86835878820672,
+              18.523193358649984
+            ],
+            [
+              73.86950915470693,
+              18.523193358649984
+            ],
+            [
+              73.8696319027916,
+              18.524217023084688
+            ],
+            [
+              73.86842748342625,
+              18.524217023084688
+            ],
+            [
+              73.86835878820672,
+              18.523193358649984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00030",
+      "properties": {
+        "parcel_id": "P-00030",
+        "survey_number": "284/6A",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 7.66,
+        "land_type": "Agricultural",
+        "latitude": 18.527839,
+        "longitude": 73.856315,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.85523310138524,
+                18.527249953232236
+              ],
+              [
+                73.85758259584478,
+                18.527249953232236
+              ],
+              [
+                73.85739758211847,
+                18.52842852104841
+              ],
+              [
+                73.85532691484023,
+                18.52842852104841
+              ],
+              [
+                73.85523310138524,
+                18.527249953232236
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 30 (Synthetic)",
+        "last_survey_date": "2024-07-26",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85523310138524,
+              18.527249953232236
+            ],
+            [
+              73.85758259584478,
+              18.527249953232236
+            ],
+            [
+              73.85739758211847,
+              18.52842852104841
+            ],
+            [
+              73.85532691484023,
+              18.52842852104841
+            ],
+            [
+              73.85523310138524,
+              18.527249953232236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00031",
+      "properties": {
+        "parcel_id": "P-00031",
+        "survey_number": "69/7B",
+        "village": "Devpur",
+        "district": "Pune",
+        "area_acres": 9.13,
+        "land_type": "Water Body",
+        "latitude": 18.5278,
+        "longitude": 73.86039,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.85986344685429,
+                18.527081475975184
+              ],
+              [
+                73.86092467883417,
+                18.527081475975184
+              ],
+              [
+                73.86091671069474,
+                18.52851753349064
+              ],
+              [
+                73.85974084250641,
+                18.52851753349064
+              ],
+              [
+                73.85986344685429,
+                18.527081475975184
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 31 (Synthetic)",
+        "last_survey_date": "2024-06-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85986344685429,
+              18.527081475975184
+            ],
+            [
+              73.86092467883417,
+              18.527081475975184
+            ],
+            [
+              73.86091671069474,
+              18.52851753349064
+            ],
+            [
+              73.85974084250641,
+              18.52851753349064
+            ],
+            [
+              73.85986344685429,
+              18.527081475975184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00032",
+      "properties": {
+        "parcel_id": "P-00032",
+        "survey_number": "45/6C",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 5.33,
+        "land_type": "Residential",
+        "latitude": 26.846823,
+        "longitude": 80.946363,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94578861228688,
+                26.845873131992395
+              ],
+              [
+                80.94694101166728,
+                26.845873131992395
+              ],
+              [
+                80.94693816266566,
+                26.84777317882749
+              ],
+              [
+                80.94572185512523,
+                26.84777317882749
+              ],
+              [
+                80.94578861228688,
+                26.845873131992395
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 32 (Synthetic)",
+        "last_survey_date": "2024-04-23",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94578861228688,
+              26.845873131992395
+            ],
+            [
+              80.94694101166728,
+              26.845873131992395
+            ],
+            [
+              80.94693816266566,
+              26.84777317882749
+            ],
+            [
+              80.94572185512523,
+              26.84777317882749
+            ],
+            [
+              80.94578861228688,
+              26.845873131992395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00033",
+      "properties": {
+        "parcel_id": "P-00033",
+        "survey_number": "350/7D",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 3.02,
+        "land_type": "Residential",
+        "latitude": 26.846877,
+        "longitude": 80.950603,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94973349659617,
+                26.846226843007987
+              ],
+              [
+                80.95149128938057,
+                26.846226843007987
+              ],
+              [
+                80.95147211449532,
+                26.847527792882556
+              ],
+              [
+                80.94993333422029,
+                26.847527792882556
+              ],
+              [
+                80.94973349659617,
+                26.846226843007987
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 33 (Synthetic)",
+        "last_survey_date": "2024-06-24",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94973349659617,
+              26.846226843007987
+            ],
+            [
+              80.95149128938057,
+              26.846226843007987
+            ],
+            [
+              80.95147211449532,
+              26.847527792882556
+            ],
+            [
+              80.94993333422029,
+              26.847527792882556
+            ],
+            [
+              80.94973349659617,
+              26.846226843007987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00034",
+      "properties": {
+        "parcel_id": "P-00034",
+        "survey_number": "236/8E",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 6.69,
+        "land_type": "Residential",
+        "latitude": 26.846876,
+        "longitude": 80.954211,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.95323493275743,
+                26.845895711231346
+              ],
+              [
+                80.95528179981471,
+                26.845895711231346
+              ],
+              [
+                80.95518741523634,
+                26.84785554323503
+              ],
+              [
+                80.95317139245942,
+                26.84785554323503
+              ],
+              [
+                80.95323493275743,
+                26.845895711231346
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 34 (Synthetic)",
+        "last_survey_date": "2024-02-17",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.95323493275743,
+              26.845895711231346
+            ],
+            [
+              80.95528179981471,
+              26.845895711231346
+            ],
+            [
+              80.95518741523634,
+              26.84785554323503
+            ],
+            [
+              80.95317139245942,
+              26.84785554323503
+            ],
+            [
+              80.95323493275743,
+              26.845895711231346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00035",
+      "properties": {
+        "parcel_id": "P-00035",
+        "survey_number": "168/4A",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 5.47,
+        "land_type": "Commercial",
+        "latitude": 26.847007,
+        "longitude": 80.957847,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.9573196257314,
+                26.846014594883183
+              ],
+              [
+                80.95841959178233,
+                26.846014594883183
+              ],
+              [
+                80.9583750821931,
+                26.847998530905965
+              ],
+              [
+                80.9572122299958,
+                26.847998530905965
+              ],
+              [
+                80.9573196257314,
+                26.846014594883183
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 35 (Synthetic)",
+        "last_survey_date": "2024-07-25",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.9573196257314,
+              26.846014594883183
+            ],
+            [
+              80.95841959178233,
+              26.846014594883183
+            ],
+            [
+              80.9583750821931,
+              26.847998530905965
+            ],
+            [
+              80.9572122299958,
+              26.847998530905965
+            ],
+            [
+              80.9573196257314,
+              26.846014594883183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00036",
+      "properties": {
+        "parcel_id": "P-00036",
+        "survey_number": "214/4B",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 2.61,
+        "land_type": "Government",
+        "latitude": 26.849848,
+        "longitude": 80.946388,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94535202651736,
+                26.848917351062376
+              ],
+              [
+                80.94757740439101,
+                26.848917351062376
+              ],
+              [
+                80.94742321830881,
+                26.8507777916278
+              ],
+              [
+                80.94524065835465,
+                26.8507777916278
+              ],
+              [
+                80.94535202651736,
+                26.848917351062376
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 36 (Synthetic)",
+        "last_survey_date": "2024-08-11",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94535202651736,
+              26.848917351062376
+            ],
+            [
+              80.94757740439101,
+              26.848917351062376
+            ],
+            [
+              80.94742321830881,
+              26.8507777916278
+            ],
+            [
+              80.94524065835465,
+              26.8507777916278
+            ],
+            [
+              80.94535202651736,
+              26.848917351062376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00037",
+      "properties": {
+        "parcel_id": "P-00037",
+        "survey_number": "295/4C",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 11.9,
+        "land_type": "Residential",
+        "latitude": 26.850617,
+        "longitude": 80.949821,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94924135513585,
+                26.849885148395703
+              ],
+              [
+                80.95041381481688,
+                26.849885148395703
+              ],
+              [
+                80.95040136206254,
+                26.8513497916332
+              ],
+              [
+                80.9492177850197,
+                26.8513497916332
+              ],
+              [
+                80.94924135513585,
+                26.849885148395703
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 37 (Synthetic)",
+        "last_survey_date": "2024-09-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94924135513585,
+              26.849885148395703
+            ],
+            [
+              80.95041381481688,
+              26.849885148395703
+            ],
+            [
+              80.95040136206254,
+              26.8513497916332
+            ],
+            [
+              80.9492177850197,
+              26.8513497916332
+            ],
+            [
+              80.94924135513585,
+              26.849885148395703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00038",
+      "properties": {
+        "parcel_id": "P-00038",
+        "survey_number": "290/8D",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 9.83,
+        "land_type": "Industrial",
+        "latitude": 26.850597,
+        "longitude": 80.954444,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.95365885078007,
+                26.849967612329
+              ],
+              [
+                80.95512735599925,
+                26.849967612329
+              ],
+              [
+                80.95522846010425,
+                26.851226803877463
+              ],
+              [
+                80.95360378620536,
+                26.851226803877463
+              ],
+              [
+                80.95365885078007,
+                26.849967612329
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 38 (Synthetic)",
+        "last_survey_date": "2024-05-24",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.95365885078007,
+              26.849967612329
+            ],
+            [
+              80.95512735599925,
+              26.849967612329
+            ],
+            [
+              80.95522846010425,
+              26.851226803877463
+            ],
+            [
+              80.95360378620536,
+              26.851226803877463
+            ],
+            [
+              80.95365885078007,
+              26.849967612329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00039",
+      "properties": {
+        "parcel_id": "P-00039",
+        "survey_number": "49/5E",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 8.98,
+        "land_type": "Government",
+        "latitude": 26.849934,
+        "longitude": 80.958036,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.95700003143695,
+                26.84939420474918
+              ],
+              [
+                80.9589319958995,
+                26.84939420474918
+              ],
+              [
+                80.9590716636363,
+                26.85047478240684
+              ],
+              [
+                80.95704681731998,
+                26.85047478240684
+              ],
+              [
+                80.95700003143695,
+                26.84939420474918
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 39 (Synthetic)",
+        "last_survey_date": "2024-06-27",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.95700003143695,
+              26.84939420474918
+            ],
+            [
+              80.9589319958995,
+              26.84939420474918
+            ],
+            [
+              80.9590716636363,
+              26.85047478240684
+            ],
+            [
+              80.95704681731998,
+              26.85047478240684
+            ],
+            [
+              80.95700003143695,
+              26.84939420474918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00040",
+      "properties": {
+        "parcel_id": "P-00040",
+        "survey_number": "248/7A",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 7.41,
+        "land_type": "Industrial",
+        "latitude": 26.853262,
+        "longitude": 80.946533,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94579920508174,
+                26.852377367824428
+              ],
+              [
+                80.94744500207038,
+                26.852377367824428
+              ],
+              [
+                80.94726657725694,
+                26.85414716359674
+              ],
+              [
+                80.94599139229905,
+                26.85414716359674
+              ],
+              [
+                80.94579920508174,
+                26.852377367824428
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 40 (Synthetic)",
+        "last_survey_date": "2024-05-22",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94579920508174,
+              26.852377367824428
+            ],
+            [
+              80.94744500207038,
+              26.852377367824428
+            ],
+            [
+              80.94726657725694,
+              26.85414716359674
+            ],
+            [
+              80.94599139229905,
+              26.85414716359674
+            ],
+            [
+              80.94579920508174,
+              26.852377367824428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00041",
+      "properties": {
+        "parcel_id": "P-00041",
+        "survey_number": "224/9B",
+        "village": "Sonpur",
+        "district": "Lucknow",
+        "area_acres": 5.17,
+        "land_type": "Agricultural",
+        "latitude": 26.853948,
+        "longitude": 80.950246,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                80.94938418075638,
+                26.853337246321814
+              ],
+              [
+                80.95099585251695,
+                26.853337246321814
+              ],
+              [
+                80.9511080838631,
+                26.85455778501614
+              ],
+              [
+                80.94940984636597,
+                26.85455778501614
+              ],
+              [
+                80.94938418075638,
+                26.853337246321814
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 41 (Synthetic)",
+        "last_survey_date": "2024-03-24",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.94938418075638,
+              26.853337246321814
+            ],
+            [
+              80.95099585251695,
+              26.853337246321814
+            ],
+            [
+              80.9511080838631,
+              26.85455778501614
+            ],
+            [
+              80.94940984636597,
+              26.85455778501614
+            ],
+            [
+              80.94938418075638,
+              26.853337246321814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00042",
+      "properties": {
+        "parcel_id": "P-00042",
+        "survey_number": "75/9C",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 2.68,
+        "land_type": "Commercial",
+        "latitude": 23.259427,
+        "longitude": 77.412494,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.41165538506652,
+                23.258913415428733
+              ],
+              [
+                77.41338975530535,
+                23.258913415428733
+              ],
+              [
+                77.41333265544614,
+                23.259940517475076
+              ],
+              [
+                77.41180110527164,
+                23.259940517475076
+              ],
+              [
+                77.41165538506652,
+                23.258913415428733
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 42 (Synthetic)",
+        "last_survey_date": "2024-04-24",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41165538506652,
+              23.258913415428733
+            ],
+            [
+              77.41338975530535,
+              23.258913415428733
+            ],
+            [
+              77.41333265544614,
+              23.259940517475076
+            ],
+            [
+              77.41180110527164,
+              23.259940517475076
+            ],
+            [
+              77.41165538506652,
+              23.258913415428733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00043",
+      "properties": {
+        "parcel_id": "P-00043",
+        "survey_number": "177/6D",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 9.49,
+        "land_type": "Agricultural",
+        "latitude": 23.260161,
+        "longitude": 77.416479,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.41552792032142,
+                23.259245267565316
+              ],
+              [
+                77.41733124072242,
+                23.259245267565316
+              ],
+              [
+                77.4174303321097,
+                23.26107719185047
+              ],
+              [
+                77.41569515782832,
+                23.26107719185047
+              ],
+              [
+                77.41552792032142,
+                23.259245267565316
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 43 (Synthetic)",
+        "last_survey_date": "2024-04-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41552792032142,
+              23.259245267565316
+            ],
+            [
+              77.41733124072242,
+              23.259245267565316
+            ],
+            [
+              77.4174303321097,
+              23.26107719185047
+            ],
+            [
+              77.41569515782832,
+              23.26107719185047
+            ],
+            [
+              77.41552792032142,
+              23.259245267565316
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00044",
+      "properties": {
+        "parcel_id": "P-00044",
+        "survey_number": "343/1E",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 1.87,
+        "land_type": "Water Body",
+        "latitude": 23.260154,
+        "longitude": 77.42105,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.42042999532329,
+                23.259644043195397
+              ],
+              [
+                77.42153018108046,
+                23.259644043195397
+              ],
+              [
+                77.42166922814214,
+                23.26066442321272
+              ],
+              [
+                77.42057950693334,
+                23.26066442321272
+              ],
+              [
+                77.42042999532329,
+                23.259644043195397
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 44 (Synthetic)",
+        "last_survey_date": "2024-05-21",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.42042999532329,
+              23.259644043195397
+            ],
+            [
+              77.42153018108046,
+              23.259644043195397
+            ],
+            [
+              77.42166922814214,
+              23.26066442321272
+            ],
+            [
+              77.42057950693334,
+              23.26066442321272
+            ],
+            [
+              77.42042999532329,
+              23.259644043195397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00045",
+      "properties": {
+        "parcel_id": "P-00045",
+        "survey_number": "95/2A",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 5.26,
+        "land_type": "Commercial",
+        "latitude": 23.260178,
+        "longitude": 77.424264,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.42357714245841,
+                23.25938844951992
+              ],
+              [
+                77.42512194402929,
+                23.25938844951992
+              ],
+              [
+                77.42495038916192,
+                23.26096713425243
+              ],
+              [
+                77.42354682376705,
+                23.26096713425243
+              ],
+              [
+                77.42357714245841,
+                23.25938844951992
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 45 (Synthetic)",
+        "last_survey_date": "2024-04-13",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.42357714245841,
+              23.25938844951992
+            ],
+            [
+              77.42512194402929,
+              23.25938844951992
+            ],
+            [
+              77.42495038916192,
+              23.26096713425243
+            ],
+            [
+              77.42354682376705,
+              23.26096713425243
+            ],
+            [
+              77.42357714245841,
+              23.25938844951992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00046",
+      "properties": {
+        "parcel_id": "P-00046",
+        "survey_number": "164/2B",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 4.59,
+        "land_type": "Water Body",
+        "latitude": 23.263696,
+        "longitude": 77.412666,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.41214129107725,
+                23.262929854593942
+              ],
+              [
+                77.41325518256977,
+                23.262929854593942
+              ],
+              [
+                77.4131905740335,
+                23.264462599839256
+              ],
+              [
+                77.41231370838264,
+                23.264462599839256
+              ],
+              [
+                77.41214129107725,
+                23.262929854593942
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 46 (Synthetic)",
+        "last_survey_date": "2024-02-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41214129107725,
+              23.262929854593942
+            ],
+            [
+              77.41325518256977,
+              23.262929854593942
+            ],
+            [
+              77.4131905740335,
+              23.264462599839256
+            ],
+            [
+              77.41231370838264,
+              23.264462599839256
+            ],
+            [
+              77.41214129107725,
+              23.262929854593942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00047",
+      "properties": {
+        "parcel_id": "P-00047",
+        "survey_number": "195/8C",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 9.8,
+        "land_type": "Forest / Green Belt",
+        "latitude": 23.263607,
+        "longitude": 77.416535,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.4155952099626,
+                23.262624571778083
+              ],
+              [
+                77.41738379728598,
+                23.262624571778083
+              ],
+              [
+                77.41747576432742,
+                23.264590045509323
+              ],
+              [
+                77.41547193027507,
+                23.264590045509323
+              ],
+              [
+                77.4155952099626,
+                23.262624571778083
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 47 (Synthetic)",
+        "last_survey_date": "2024-05-20",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4155952099626,
+              23.262624571778083
+            ],
+            [
+              77.41738379728598,
+              23.262624571778083
+            ],
+            [
+              77.41747576432742,
+              23.264590045509323
+            ],
+            [
+              77.41547193027507,
+              23.264590045509323
+            ],
+            [
+              77.4155952099626,
+              23.262624571778083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00048",
+      "properties": {
+        "parcel_id": "P-00048",
+        "survey_number": "135/2D",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 10.71,
+        "land_type": "Commercial",
+        "latitude": 23.263179,
+        "longitude": 77.420551,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.4196005162311,
+                23.26239400342685
+              ],
+              [
+                77.42156836315746,
+                23.26239400342685
+              ],
+              [
+                77.42150108776929,
+                23.26396385307153
+              ],
+              [
+                77.41966595758315,
+                23.26396385307153
+              ],
+              [
+                77.4196005162311,
+                23.26239400342685
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 48 (Synthetic)",
+        "last_survey_date": "2024-06-18",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4196005162311,
+              23.26239400342685
+            ],
+            [
+              77.42156836315746,
+              23.26239400342685
+            ],
+            [
+              77.42150108776929,
+              23.26396385307153
+            ],
+            [
+              77.41966595758315,
+              23.26396385307153
+            ],
+            [
+              77.4196005162311,
+              23.26239400342685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00049",
+      "properties": {
+        "parcel_id": "P-00049",
+        "survey_number": "184/5E",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 5.38,
+        "land_type": "Water Body",
+        "latitude": 23.26378,
+        "longitude": 77.424801,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.42413542260488,
+                23.263275244422537
+              ],
+              [
+                77.42564616992689,
+                23.263275244422537
+              ],
+              [
+                77.42546694489579,
+                23.264285395536973
+              ],
+              [
+                77.42430117742009,
+                23.264285395536973
+              ],
+              [
+                77.42413542260488,
+                23.263275244422537
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 49 (Synthetic)",
+        "last_survey_date": "2024-08-25",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.42413542260488,
+              23.263275244422537
+            ],
+            [
+              77.42564616992689,
+              23.263275244422537
+            ],
+            [
+              77.42546694489579,
+              23.264285395536973
+            ],
+            [
+              77.42430117742009,
+              23.264285395536973
+            ],
+            [
+              77.42413542260488,
+              23.263275244422537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00050",
+      "properties": {
+        "parcel_id": "P-00050",
+        "survey_number": "239/1A",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 4.63,
+        "land_type": "Forest / Green Belt",
+        "latitude": 23.266493,
+        "longitude": 77.412322,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.41140652410729,
+                23.26583995033549
+              ],
+              [
+                77.41326929092779,
+                23.26583995033549
+              ],
+              [
+                77.41323666869366,
+                23.26714615636562
+              ],
+              [
+                77.41141721991178,
+                23.26714615636562
+              ],
+              [
+                77.41140652410729,
+                23.26583995033549
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 50 (Synthetic)",
+        "last_survey_date": "2024-06-21",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41140652410729,
+              23.26583995033549
+            ],
+            [
+              77.41326929092779,
+              23.26583995033549
+            ],
+            [
+              77.41323666869366,
+              23.26714615636562
+            ],
+            [
+              77.41141721991178,
+              23.26714615636562
+            ],
+            [
+              77.41140652410729,
+              23.26583995033549
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00051",
+      "properties": {
+        "parcel_id": "P-00051",
+        "survey_number": "242/5B",
+        "village": "Chandanpur",
+        "district": "Bhopal",
+        "area_acres": 2.72,
+        "land_type": "Water Body",
+        "latitude": 23.266707,
+        "longitude": 77.416331,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                77.41539776744251,
+                23.26604884901935
+              ],
+              [
+                77.41736046106556,
+                23.26604884901935
+              ],
+              [
+                77.4172633086401,
+                23.26736439696335
+              ],
+              [
+                77.41521741641836,
+                23.26736439696335
+              ],
+              [
+                77.41539776744251,
+                23.26604884901935
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 51 (Synthetic)",
+        "last_survey_date": "2024-05-28",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41539776744251,
+              23.26604884901935
+            ],
+            [
+              77.41736046106556,
+              23.26604884901935
+            ],
+            [
+              77.4172633086401,
+              23.26736439696335
+            ],
+            [
+              77.41521741641836,
+              23.26736439696335
+            ],
+            [
+              77.41539776744251,
+              23.26604884901935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00052",
+      "properties": {
+        "parcel_id": "P-00052",
+        "survey_number": "278/5C",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 3.79,
+        "land_type": "Government",
+        "latitude": 25.594581,
+        "longitude": 85.137933,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.13725488048537,
+                25.59390007009589
+              ],
+              [
+                85.1385312832768,
+                25.59390007009589
+              ],
+              [
+                85.13861037624129,
+                25.595260951165038
+              ],
+              [
+                85.13717167309109,
+                25.595260951165038
+              ],
+              [
+                85.13725488048537,
+                25.59390007009589
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 52 (Synthetic)",
+        "last_survey_date": "2024-05-14",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.13725488048537,
+              25.59390007009589
+            ],
+            [
+              85.1385312832768,
+              25.59390007009589
+            ],
+            [
+              85.13861037624129,
+              25.595260951165038
+            ],
+            [
+              85.13717167309109,
+              25.595260951165038
+            ],
+            [
+              85.13725488048537,
+              25.59390007009589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00053",
+      "properties": {
+        "parcel_id": "P-00053",
+        "survey_number": "336/8D",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 11.79,
+        "land_type": "Residential",
+        "latitude": 25.593703,
+        "longitude": 85.141112,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14044166180712,
+                25.592963230542484
+              ],
+              [
+                85.1417191513727,
+                25.592963230542484
+              ],
+              [
+                85.14178286899967,
+                25.594441944751093
+              ],
+              [
+                85.14025546274986,
+                25.594441944751093
+              ],
+              [
+                85.14044166180712,
+                25.592963230542484
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 53 (Synthetic)",
+        "last_survey_date": "2024-07-25",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14044166180712,
+              25.592963230542484
+            ],
+            [
+              85.1417191513727,
+              25.592963230542484
+            ],
+            [
+              85.14178286899967,
+              25.594441944751093
+            ],
+            [
+              85.14025546274986,
+              25.594441944751093
+            ],
+            [
+              85.14044166180712,
+              25.592963230542484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00054",
+      "properties": {
+        "parcel_id": "P-00054",
+        "survey_number": "47/1E",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 7.78,
+        "land_type": "Commercial",
+        "latitude": 25.593752,
+        "longitude": 85.145911,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14484166669085,
+                25.593209136552755
+              ],
+              [
+                85.14687989384377,
+                25.593209136552755
+              ],
+              [
+                85.1469806174617,
+                25.594294317461152
+              ],
+              [
+                85.144818437477,
+                25.594294317461152
+              ],
+              [
+                85.14484166669085,
+                25.593209136552755
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 54 (Synthetic)",
+        "last_survey_date": "2024-09-22",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14484166669085,
+              25.593209136552755
+            ],
+            [
+              85.14687989384377,
+              25.593209136552755
+            ],
+            [
+              85.1469806174617,
+              25.594294317461152
+            ],
+            [
+              85.144818437477,
+              25.594294317461152
+            ],
+            [
+              85.14484166669085,
+              25.593209136552755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00055",
+      "properties": {
+        "parcel_id": "P-00055",
+        "survey_number": "240/8A",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 11.87,
+        "land_type": "Agricultural",
+        "latitude": 25.593897,
+        "longitude": 85.149689,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14893122723704,
+                25.593113038397206
+              ],
+              [
+                85.15026991516217,
+                25.593113038397206
+              ],
+              [
+                85.15044582304041,
+                25.59468166786783
+              ],
+              [
+                85.14874718372607,
+                25.59468166786783
+              ],
+              [
+                85.14893122723704,
+                25.593113038397206
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 55 (Synthetic)",
+        "last_survey_date": "2024-05-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14893122723704,
+              25.593113038397206
+            ],
+            [
+              85.15026991516217,
+              25.593113038397206
+            ],
+            [
+              85.15044582304041,
+              25.59468166786783
+            ],
+            [
+              85.14874718372607,
+              25.59468166786783
+            ],
+            [
+              85.14893122723704,
+              25.593113038397206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00056",
+      "properties": {
+        "parcel_id": "P-00056",
+        "survey_number": "90/4B",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 3.96,
+        "land_type": "Government",
+        "latitude": 25.597274,
+        "longitude": 85.137175,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.13667345943536,
+                25.596548561696018
+              ],
+              [
+                85.13771419478051,
+                25.596548561696018
+              ],
+              [
+                85.13767667030247,
+                25.597999065400636
+              ],
+              [
+                85.13675695571975,
+                25.597999065400636
+              ],
+              [
+                85.13667345943536,
+                25.596548561696018
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 56 (Synthetic)",
+        "last_survey_date": "2024-02-17",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.13667345943536,
+              25.596548561696018
+            ],
+            [
+              85.13771419478051,
+              25.596548561696018
+            ],
+            [
+              85.13767667030247,
+              25.597999065400636
+            ],
+            [
+              85.13675695571975,
+              25.597999065400636
+            ],
+            [
+              85.13667345943536,
+              25.596548561696018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00057",
+      "properties": {
+        "parcel_id": "P-00057",
+        "survey_number": "145/4C",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 10.01,
+        "land_type": "Government",
+        "latitude": 25.597525,
+        "longitude": 85.141645,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14075598154467,
+                25.5965709332435
+              ],
+              [
+                85.14266379567663,
+                25.5965709332435
+              ],
+              [
+                85.14253314321276,
+                25.598479344688712
+              ],
+              [
+                85.14092741760993,
+                25.598479344688712
+              ],
+              [
+                85.14075598154467,
+                25.5965709332435
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 57 (Synthetic)",
+        "last_survey_date": "2024-05-24",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14075598154467,
+              25.5965709332435
+            ],
+            [
+              85.14266379567663,
+              25.5965709332435
+            ],
+            [
+              85.14253314321276,
+              25.598479344688712
+            ],
+            [
+              85.14092741760993,
+              25.598479344688712
+            ],
+            [
+              85.14075598154467,
+              25.5965709332435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00058",
+      "properties": {
+        "parcel_id": "P-00058",
+        "survey_number": "73/8D",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 11.17,
+        "land_type": "Agricultural",
+        "latitude": 25.597789,
+        "longitude": 85.1458,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14473412794054,
+                25.59703844190265
+              ],
+              [
+                85.14686285751716,
+                25.59703844190265
+              ],
+              [
+                85.14686533942943,
+                25.59853891407977
+              ],
+              [
+                85.14490195119978,
+                25.59853891407977
+              ],
+              [
+                85.14473412794054,
+                25.59703844190265
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 58 (Synthetic)",
+        "last_survey_date": "2024-05-10",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14473412794054,
+              25.59703844190265
+            ],
+            [
+              85.14686285751716,
+              25.59703844190265
+            ],
+            [
+              85.14686533942943,
+              25.59853891407977
+            ],
+            [
+              85.14490195119978,
+              25.59853891407977
+            ],
+            [
+              85.14473412794054,
+              25.59703844190265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00059",
+      "properties": {
+        "parcel_id": "P-00059",
+        "survey_number": "56/4E",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 7.41,
+        "land_type": "Residential",
+        "latitude": 25.598062,
+        "longitude": 85.149936,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14909083914837,
+                25.597086517963287
+              ],
+              [
+                85.1509809070462,
+                25.597086517963287
+              ],
+              [
+                85.15078107807945,
+                25.599037304241097
+              ],
+              [
+                85.14902192651465,
+                25.599037304241097
+              ],
+              [
+                85.14909083914837,
+                25.597086517963287
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 59 (Synthetic)",
+        "last_survey_date": "2024-08-26",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14909083914837,
+              25.597086517963287
+            ],
+            [
+              85.1509809070462,
+              25.597086517963287
+            ],
+            [
+              85.15078107807945,
+              25.599037304241097
+            ],
+            [
+              85.14902192651465,
+              25.599037304241097
+            ],
+            [
+              85.14909083914837,
+              25.597086517963287
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00060",
+      "properties": {
+        "parcel_id": "P-00060",
+        "survey_number": "343/8A",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 5.4,
+        "land_type": "Residential",
+        "latitude": 25.601516,
+        "longitude": 85.137281,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.13643029137206,
+                25.600698680428202
+              ],
+              [
+                85.13812937724326,
+                25.600698680428202
+              ],
+              [
+                85.13813268692239,
+                25.60233346514766
+              ],
+              [
+                85.13659379440955,
+                25.60233346514766
+              ],
+              [
+                85.13643029137206,
+                25.600698680428202
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 60 (Synthetic)",
+        "last_survey_date": "2024-03-20",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.13643029137206,
+              25.600698680428202
+            ],
+            [
+              85.13812937724326,
+              25.600698680428202
+            ],
+            [
+              85.13813268692239,
+              25.60233346514766
+            ],
+            [
+              85.13659379440955,
+              25.60233346514766
+            ],
+            [
+              85.13643029137206,
+              25.600698680428202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00061",
+      "properties": {
+        "parcel_id": "P-00061",
+        "survey_number": "220/8B",
+        "village": "Anandpur",
+        "district": "Patna",
+        "area_acres": 1.89,
+        "land_type": "Residential",
+        "latitude": 25.600888,
+        "longitude": 85.142045,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.14105705391873,
+                25.60011316949088
+              ],
+              [
+                85.14301526352386,
+                25.60011316949088
+              ],
+              [
+                85.14303333316042,
+                25.60166326609985
+              ],
+              [
+                85.14113124705587,
+                25.60166326609985
+              ],
+              [
+                85.14105705391873,
+                25.60011316949088
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 61 (Synthetic)",
+        "last_survey_date": "2024-01-27",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14105705391873,
+              25.60011316949088
+            ],
+            [
+              85.14301526352386,
+              25.60011316949088
+            ],
+            [
+              85.14303333316042,
+              25.60166326609985
+            ],
+            [
+              85.14113124705587,
+              25.60166326609985
+            ],
+            [
+              85.14105705391873,
+              25.60011316949088
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00062",
+      "properties": {
+        "parcel_id": "P-00062",
+        "survey_number": "246/7C",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 7.09,
+        "land_type": "Residential",
+        "latitude": 25.317154,
+        "longitude": 82.973918,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.9730448590689,
+                25.316404957534186
+              ],
+              [
+                82.9747688360983,
+                25.316404957534186
+              ],
+              [
+                82.97479201971602,
+                25.317903450636567
+              ],
+              [
+                82.97322421435884,
+                25.317903450636567
+              ],
+              [
+                82.9730448590689,
+                25.316404957534186
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 62 (Synthetic)",
+        "last_survey_date": "2024-08-13",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.9730448590689,
+              25.316404957534186
+            ],
+            [
+              82.9747688360983,
+              25.316404957534186
+            ],
+            [
+              82.97479201971602,
+              25.317903450636567
+            ],
+            [
+              82.97322421435884,
+              25.317903450636567
+            ],
+            [
+              82.9730448590689,
+              25.316404957534186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00063",
+      "properties": {
+        "parcel_id": "P-00063",
+        "survey_number": "24/4D",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 6.04,
+        "land_type": "Agricultural",
+        "latitude": 25.31781,
+        "longitude": 82.977711,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.97720254545972,
+                25.317105787481452
+              ],
+              [
+                82.97810883508086,
+                25.317105787481452
+              ],
+              [
+                82.97821895481708,
+                25.318513778168743
+              ],
+              [
+                82.97706598318707,
+                25.318513778168743
+              ],
+              [
+                82.97720254545972,
+                25.317105787481452
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 63 (Synthetic)",
+        "last_survey_date": "2024-08-19",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.97720254545972,
+              25.317105787481452
+            ],
+            [
+              82.97810883508086,
+              25.317105787481452
+            ],
+            [
+              82.97821895481708,
+              25.318513778168743
+            ],
+            [
+              82.97706598318707,
+              25.318513778168743
+            ],
+            [
+              82.97720254545972,
+              25.317105787481452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00064",
+      "properties": {
+        "parcel_id": "P-00064",
+        "survey_number": "270/5E",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 6.6,
+        "land_type": "Forest / Green Belt",
+        "latitude": 25.317515,
+        "longitude": 82.981882,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.98109916770781,
+                25.31678709710657
+              ],
+              [
+                82.9825236882335,
+                25.31678709710657
+              ],
+              [
+                82.9826658314461,
+                25.3182438835793
+              ],
+              [
+                82.98122292355943,
+                25.3182438835793
+              ],
+              [
+                82.98109916770781,
+                25.31678709710657
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 64 (Synthetic)",
+        "last_survey_date": "2024-05-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.98109916770781,
+              25.31678709710657
+            ],
+            [
+              82.9825236882335,
+              25.31678709710657
+            ],
+            [
+              82.9826658314461,
+              25.3182438835793
+            ],
+            [
+              82.98122292355943,
+              25.3182438835793
+            ],
+            [
+              82.98109916770781,
+              25.31678709710657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00065",
+      "properties": {
+        "parcel_id": "P-00065",
+        "survey_number": "184/9A",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 2.28,
+        "land_type": "Industrial",
+        "latitude": 25.317367,
+        "longitude": 82.985403,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.9844669346698,
+                25.316448434701762
+              ],
+              [
+                82.98637016520249,
+                25.316448434701762
+              ],
+              [
+                82.98633819584893,
+                25.31828591062437
+              ],
+              [
+                82.98440295836858,
+                25.31828591062437
+              ],
+              [
+                82.9844669346698,
+                25.316448434701762
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 65 (Synthetic)",
+        "last_survey_date": "2024-06-27",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.9844669346698,
+              25.316448434701762
+            ],
+            [
+              82.98637016520249,
+              25.316448434701762
+            ],
+            [
+              82.98633819584893,
+              25.31828591062437
+            ],
+            [
+              82.98440295836858,
+              25.31828591062437
+            ],
+            [
+              82.9844669346698,
+              25.316448434701762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00066",
+      "properties": {
+        "parcel_id": "P-00066",
+        "survey_number": "288/7B",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 5.43,
+        "land_type": "Industrial",
+        "latitude": 25.321055,
+        "longitude": 82.973722,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.97310858592601,
+                25.320206595403054
+              ],
+              [
+                82.97436368783126,
+                25.320206595403054
+              ],
+              [
+                82.97433496877446,
+                25.32190409383067
+              ],
+              [
+                82.97321516094759,
+                25.32190409383067
+              ],
+              [
+                82.97310858592601,
+                25.320206595403054
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 66 (Synthetic)",
+        "last_survey_date": "2024-07-22",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.97310858592601,
+              25.320206595403054
+            ],
+            [
+              82.97436368783126,
+              25.320206595403054
+            ],
+            [
+              82.97433496877446,
+              25.32190409383067
+            ],
+            [
+              82.97321516094759,
+              25.32190409383067
+            ],
+            [
+              82.97310858592601,
+              25.320206595403054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00067",
+      "properties": {
+        "parcel_id": "P-00067",
+        "survey_number": "349/3C",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 1.7,
+        "land_type": "Commercial",
+        "latitude": 25.321095,
+        "longitude": 82.977437,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.97663564492127,
+                25.32030023843496
+              ],
+              [
+                82.97838627442678,
+                25.32030023843496
+              ],
+              [
+                82.97823839430144,
+                25.32189041886427
+              ],
+              [
+                82.97648596877166,
+                25.32189041886427
+              ],
+              [
+                82.97663564492127,
+                25.32030023843496
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 67 (Synthetic)",
+        "last_survey_date": "2024-03-23",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.97663564492127,
+              25.32030023843496
+            ],
+            [
+              82.97838627442678,
+              25.32030023843496
+            ],
+            [
+              82.97823839430144,
+              25.32189041886427
+            ],
+            [
+              82.97648596877166,
+              25.32189041886427
+            ],
+            [
+              82.97663564492127,
+              25.32030023843496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00068",
+      "properties": {
+        "parcel_id": "P-00068",
+        "survey_number": "345/3D",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 10.73,
+        "land_type": "Residential",
+        "latitude": 25.320675,
+        "longitude": 82.982182,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.98152251162354,
+                25.319863198547978
+              ],
+              [
+                82.98279953228855,
+                25.319863198547978
+              ],
+              [
+                82.982840538959,
+                25.321486457948502
+              ],
+              [
+                82.98169038549531,
+                25.321486457948502
+              ],
+              [
+                82.98152251162354,
+                25.319863198547978
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 68 (Synthetic)",
+        "last_survey_date": "2024-06-25",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.98152251162354,
+              25.319863198547978
+            ],
+            [
+              82.98279953228855,
+              25.319863198547978
+            ],
+            [
+              82.982840538959,
+              25.321486457948502
+            ],
+            [
+              82.98169038549531,
+              25.321486457948502
+            ],
+            [
+              82.98152251162354,
+              25.319863198547978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00069",
+      "properties": {
+        "parcel_id": "P-00069",
+        "survey_number": "287/1E",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 9.62,
+        "land_type": "Agricultural",
+        "latitude": 25.321217,
+        "longitude": 82.985635,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.98472413049846,
+                25.32057376995958
+              ],
+              [
+                82.98643640450004,
+                25.32057376995958
+              ],
+              [
+                82.98654540998776,
+                25.32186114896362
+              ],
+              [
+                82.98488797876615,
+                25.32186114896362
+              ],
+              [
+                82.98472413049846,
+                25.32057376995958
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 69 (Synthetic)",
+        "last_survey_date": "2024-08-15",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.98472413049846,
+              25.32057376995958
+            ],
+            [
+              82.98643640450004,
+              25.32057376995958
+            ],
+            [
+              82.98654540998776,
+              25.32186114896362
+            ],
+            [
+              82.98488797876615,
+              25.32186114896362
+            ],
+            [
+              82.98472413049846,
+              25.32057376995958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00070",
+      "properties": {
+        "parcel_id": "P-00070",
+        "survey_number": "163/1A",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 8.68,
+        "land_type": "Forest / Green Belt",
+        "latitude": 25.324146,
+        "longitude": 82.974196,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.97352012279958,
+                25.32345857042379
+              ],
+              [
+                82.97473039204903,
+                25.32345857042379
+              ],
+              [
+                82.97487216413074,
+                25.324833411513566
+              ],
+              [
+                82.97350765627232,
+                25.324833411513566
+              ],
+              [
+                82.97352012279958,
+                25.32345857042379
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 70 (Synthetic)",
+        "last_survey_date": "2024-02-22",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.97352012279958,
+              25.32345857042379
+            ],
+            [
+              82.97473039204903,
+              25.32345857042379
+            ],
+            [
+              82.97487216413074,
+              25.324833411513566
+            ],
+            [
+              82.97350765627232,
+              25.324833411513566
+            ],
+            [
+              82.97352012279958,
+              25.32345857042379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00071",
+      "properties": {
+        "parcel_id": "P-00071",
+        "survey_number": "327/4B",
+        "village": "Shivpur",
+        "district": "Varanasi",
+        "area_acres": 6.08,
+        "land_type": "Industrial",
+        "latitude": 25.324598,
+        "longitude": 82.977983,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                82.97734384406408,
+                25.323778714936868
+              ],
+              [
+                82.9786062983969,
+                25.323778714936868
+              ],
+              [
+                82.97862247019722,
+                25.32541661956787
+              ],
+              [
+                82.97727710777717,
+                25.32541661956787
+              ],
+              [
+                82.97734384406408,
+                25.323778714936868
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 71 (Synthetic)",
+        "last_survey_date": "2024-03-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.97734384406408,
+              25.323778714936868
+            ],
+            [
+              82.9786062983969,
+              25.323778714936868
+            ],
+            [
+              82.97862247019722,
+              25.32541661956787
+            ],
+            [
+              82.97727710777717,
+              25.32541661956787
+            ],
+            [
+              82.97734384406408,
+              25.323778714936868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00072",
+      "properties": {
+        "parcel_id": "P-00072",
+        "survey_number": "236/6C",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 10.74,
+        "land_type": "Commercial",
+        "latitude": 23.344588,
+        "longitude": 85.309399,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.30832193680543,
+                23.34374249493899
+              ],
+              [
+                85.31045910601789,
+                23.34374249493899
+              ],
+              [
+                85.31047637169281,
+                23.345432808451452
+              ],
+              [
+                85.30840108813722,
+                23.345432808451452
+              ],
+              [
+                85.30832193680543,
+                23.34374249493899
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 72 (Synthetic)",
+        "last_survey_date": "2024-06-28",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.30832193680543,
+              23.34374249493899
+            ],
+            [
+              85.31045910601789,
+              23.34374249493899
+            ],
+            [
+              85.31047637169281,
+              23.345432808451452
+            ],
+            [
+              85.30840108813722,
+              23.345432808451452
+            ],
+            [
+              85.30832193680543,
+              23.34374249493899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00073",
+      "properties": {
+        "parcel_id": "P-00073",
+        "survey_number": "161/5D",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 11.43,
+        "land_type": "Agricultural",
+        "latitude": 23.343622,
+        "longitude": 85.31393,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.31319255411695,
+                23.34311789061498
+              ],
+              [
+                85.31481354796513,
+                23.34311789061498
+              ],
+              [
+                85.31466752100606,
+                23.34412598858074
+              ],
+              [
+                85.31308122947064,
+                23.34412598858074
+              ],
+              [
+                85.31319255411695,
+                23.34311789061498
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 73 (Synthetic)",
+        "last_survey_date": "2024-04-21",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.31319255411695,
+              23.34311789061498
+            ],
+            [
+              85.31481354796513,
+              23.34311789061498
+            ],
+            [
+              85.31466752100606,
+              23.34412598858074
+            ],
+            [
+              85.31308122947064,
+              23.34412598858074
+            ],
+            [
+              85.31319255411695,
+              23.34311789061498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00074",
+      "properties": {
+        "parcel_id": "P-00074",
+        "survey_number": "122/4E",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 8.26,
+        "land_type": "Water Body",
+        "latitude": 23.344221,
+        "longitude": 85.317778,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.31684520743262,
+                23.343391300392973
+              ],
+              [
+                85.31884565633142,
+                23.343391300392973
+              ],
+              [
+                85.31871032148463,
+                23.345050481933292
+              ],
+              [
+                85.31679390819114,
+                23.345050481933292
+              ],
+              [
+                85.31684520743262,
+                23.343391300392973
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 74 (Synthetic)",
+        "last_survey_date": "2024-01-28",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.31684520743262,
+              23.343391300392973
+            ],
+            [
+              85.31884565633142,
+              23.343391300392973
+            ],
+            [
+              85.31871032148463,
+              23.345050481933292
+            ],
+            [
+              85.31679390819114,
+              23.345050481933292
+            ],
+            [
+              85.31684520743262,
+              23.343391300392973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00075",
+      "properties": {
+        "parcel_id": "P-00075",
+        "survey_number": "196/3A",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 6.87,
+        "land_type": "Residential",
+        "latitude": 23.34369,
+        "longitude": 85.321395,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.32044662193267,
+                23.343102313340527
+              ],
+              [
+                85.32219646288969,
+                23.343102313340527
+              ],
+              [
+                85.32234359897059,
+                23.34427795341097
+              ],
+              [
+                85.32043085882908,
+                23.34427795341097
+              ],
+              [
+                85.32044662193267,
+                23.343102313340527
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 75 (Synthetic)",
+        "last_survey_date": "2024-05-25",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.32044662193267,
+              23.343102313340527
+            ],
+            [
+              85.32219646288969,
+              23.343102313340527
+            ],
+            [
+              85.32234359897059,
+              23.34427795341097
+            ],
+            [
+              85.32043085882908,
+              23.34427795341097
+            ],
+            [
+              85.32044662193267,
+              23.343102313340527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00076",
+      "properties": {
+        "parcel_id": "P-00076",
+        "survey_number": "161/6B",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 12.26,
+        "land_type": "Water Body",
+        "latitude": 23.347904,
+        "longitude": 85.309568,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.30902315177232,
+                23.347027156792073
+              ],
+              [
+                85.31000375688367,
+                23.347027156792073
+              ],
+              [
+                85.3101135110054,
+                23.348781308285133
+              ],
+              [
+                85.30895262228243,
+                23.348781308285133
+              ],
+              [
+                85.30902315177232,
+                23.347027156792073
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 76 (Synthetic)",
+        "last_survey_date": "2024-06-12",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.30902315177232,
+              23.347027156792073
+            ],
+            [
+              85.31000375688367,
+              23.347027156792073
+            ],
+            [
+              85.3101135110054,
+              23.348781308285133
+            ],
+            [
+              85.30895262228243,
+              23.348781308285133
+            ],
+            [
+              85.30902315177232,
+              23.347027156792073
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00077",
+      "properties": {
+        "parcel_id": "P-00077",
+        "survey_number": "212/1C",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 11.78,
+        "land_type": "Water Body",
+        "latitude": 23.347364,
+        "longitude": 85.313224,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.3125024373416,
+                23.346489952776583
+              ],
+              [
+                85.31384960469525,
+                23.346489952776583
+              ],
+              [
+                85.31394474013194,
+                23.34823896438012
+              ],
+              [
+                85.3125500271419,
+                23.34823896438012
+              ],
+              [
+                85.3125024373416,
+                23.346489952776583
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 77 (Synthetic)",
+        "last_survey_date": "2024-08-10",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3125024373416,
+              23.346489952776583
+            ],
+            [
+              85.31384960469525,
+              23.346489952776583
+            ],
+            [
+              85.31394474013194,
+              23.34823896438012
+            ],
+            [
+              85.3125500271419,
+              23.34823896438012
+            ],
+            [
+              85.3125024373416,
+              23.346489952776583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00078",
+      "properties": {
+        "parcel_id": "P-00078",
+        "survey_number": "327/9D",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 5.4,
+        "land_type": "Water Body",
+        "latitude": 23.347428,
+        "longitude": 85.31771,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.31682149076748,
+                23.346610304320627
+              ],
+              [
+                85.31858438063877,
+                23.346610304320627
+              ],
+              [
+                85.31859867362424,
+                23.348245708243006
+              ],
+              [
+                85.31674105990129,
+                23.348245708243006
+              ],
+              [
+                85.31682149076748,
+                23.346610304320627
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 78 (Synthetic)",
+        "last_survey_date": "2024-05-25",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.31682149076748,
+              23.346610304320627
+            ],
+            [
+              85.31858438063877,
+              23.346610304320627
+            ],
+            [
+              85.31859867362424,
+              23.348245708243006
+            ],
+            [
+              85.31674105990129,
+              23.348245708243006
+            ],
+            [
+              85.31682149076748,
+              23.346610304320627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00079",
+      "properties": {
+        "parcel_id": "P-00079",
+        "survey_number": "69/2E",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 5.53,
+        "land_type": "Forest / Green Belt",
+        "latitude": 23.347335,
+        "longitude": 85.321638,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.32090435910719,
+                23.346649294274687
+              ],
+              [
+                85.32255048641194,
+                23.346649294274687
+              ],
+              [
+                85.32237073410458,
+                23.348020305790175
+              ],
+              [
+                85.32082576551053,
+                23.348020305790175
+              ],
+              [
+                85.32090435910719,
+                23.346649294274687
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 79 (Synthetic)",
+        "last_survey_date": "2024-07-13",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.32090435910719,
+              23.346649294274687
+            ],
+            [
+              85.32255048641194,
+              23.346649294274687
+            ],
+            [
+              85.32237073410458,
+              23.348020305790175
+            ],
+            [
+              85.32082576551053,
+              23.348020305790175
+            ],
+            [
+              85.32090435910719,
+              23.346649294274687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00080",
+      "properties": {
+        "parcel_id": "P-00080",
+        "survey_number": "260/7A",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 1.69,
+        "land_type": "Residential",
+        "latitude": 23.351539,
+        "longitude": 85.30938,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.30846557174183,
+                23.350930418223367
+              ],
+              [
+                85.31027178688225,
+                23.350930418223367
+              ],
+              [
+                85.31029390853834,
+                23.35214768790806
+              ],
+              [
+                85.30857112668654,
+                23.35214768790806
+              ],
+              [
+                85.30846557174183,
+                23.350930418223367
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 80 (Synthetic)",
+        "last_survey_date": "2024-06-11",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.30846557174183,
+              23.350930418223367
+            ],
+            [
+              85.31027178688225,
+              23.350930418223367
+            ],
+            [
+              85.31029390853834,
+              23.35214768790806
+            ],
+            [
+              85.30857112668654,
+              23.35214768790806
+            ],
+            [
+              85.30846557174183,
+              23.350930418223367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00081",
+      "properties": {
+        "parcel_id": "P-00081",
+        "survey_number": "213/5B",
+        "village": "Govindpur",
+        "district": "Ranchi",
+        "area_acres": 12.15,
+        "land_type": "Forest / Green Belt",
+        "latitude": 23.35079,
+        "longitude": 85.313222,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.31221333980601,
+                23.35006244987788
+              ],
+              [
+                85.3142960871274,
+                23.35006244987788
+              ],
+              [
+                85.31423097963217,
+                23.351517167246445
+              ],
+              [
+                85.31215665801912,
+                23.351517167246445
+              ],
+              [
+                85.31221333980601,
+                23.35006244987788
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 81 (Synthetic)",
+        "last_survey_date": "2024-04-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.31221333980601,
+              23.35006244987788
+            ],
+            [
+              85.3142960871274,
+              23.35006244987788
+            ],
+            [
+              85.31423097963217,
+              23.351517167246445
+            ],
+            [
+              85.31215665801912,
+              23.351517167246445
+            ],
+            [
+              85.31221333980601,
+              23.35006244987788
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00082",
+      "properties": {
+        "parcel_id": "P-00082",
+        "survey_number": "299/4C",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 9.96,
+        "land_type": "Government",
+        "latitude": 30.316069,
+        "longitude": 78.032465,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03184086295369,
+                30.315460634476867
+              ],
+              [
+                78.03323732996881,
+                30.315460634476867
+              ],
+              [
+                78.0330894517981,
+                30.316676585828784
+              ],
+              [
+                78.0319094391323,
+                30.316676585828784
+              ],
+              [
+                78.03184086295369,
+                30.315460634476867
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 82 (Synthetic)",
+        "last_survey_date": "2024-03-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03184086295369,
+              30.315460634476867
+            ],
+            [
+              78.03323732996881,
+              30.315460634476867
+            ],
+            [
+              78.0330894517981,
+              30.316676585828784
+            ],
+            [
+              78.0319094391323,
+              30.316676585828784
+            ],
+            [
+              78.03184086295369,
+              30.315460634476867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00083",
+      "properties": {
+        "parcel_id": "P-00083",
+        "survey_number": "286/5D",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 4.39,
+        "land_type": "Forest / Green Belt",
+        "latitude": 30.316799,
+        "longitude": 78.03581,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03479005761479,
+                30.31623261220878
+              ],
+              [
+                78.03677309199269,
+                30.31623261220878
+              ],
+              [
+                78.036829795081,
+                30.31736441543834
+              ],
+              [
+                78.03467468500101,
+                30.31736441543834
+              ],
+              [
+                78.03479005761479,
+                30.31623261220878
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 83 (Synthetic)",
+        "last_survey_date": "2024-03-23",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03479005761479,
+              30.31623261220878
+            ],
+            [
+              78.03677309199269,
+              30.31623261220878
+            ],
+            [
+              78.036829795081,
+              30.31736441543834
+            ],
+            [
+              78.03467468500101,
+              30.31736441543834
+            ],
+            [
+              78.03479005761479,
+              30.31623261220878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00084",
+      "properties": {
+        "parcel_id": "P-00084",
+        "survey_number": "279/2E",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 1.02,
+        "land_type": "Forest / Green Belt",
+        "latitude": 30.316746,
+        "longitude": 78.040176,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03920943574184,
+                30.31598904629623
+              ],
+              [
+                78.04098667779301,
+                30.31598904629623
+              ],
+              [
+                78.04114305618901,
+                30.31750228425384
+              ],
+              [
+                78.03920790026592,
+                30.31750228425384
+              ],
+              [
+                78.03920943574184,
+                30.31598904629623
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 84 (Synthetic)",
+        "last_survey_date": "2024-05-24",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03920943574184,
+              30.31598904629623
+            ],
+            [
+              78.04098667779301,
+              30.31598904629623
+            ],
+            [
+              78.04114305618901,
+              30.31750228425384
+            ],
+            [
+              78.03920790026592,
+              30.31750228425384
+            ],
+            [
+              78.03920943574184,
+              30.31598904629623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00085",
+      "properties": {
+        "parcel_id": "P-00085",
+        "survey_number": "339/1A",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 11.29,
+        "land_type": "Agricultural",
+        "latitude": 30.316061,
+        "longitude": 78.044179,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.0434380115583,
+                30.315217776659466
+              ],
+              [
+                78.04491605980537,
+                30.315217776659466
+              ],
+              [
+                78.04491995226371,
+                30.31690387415553
+              ],
+              [
+                78.04327413122665,
+                30.31690387415553
+              ],
+              [
+                78.0434380115583,
+                30.315217776659466
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 85 (Synthetic)",
+        "last_survey_date": "2024-02-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.0434380115583,
+              30.315217776659466
+            ],
+            [
+              78.04491605980537,
+              30.315217776659466
+            ],
+            [
+              78.04491995226371,
+              30.31690387415553
+            ],
+            [
+              78.04327413122665,
+              30.31690387415553
+            ],
+            [
+              78.0434380115583,
+              30.315217776659466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00086",
+      "properties": {
+        "parcel_id": "P-00086",
+        "survey_number": "150/9B",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 8.92,
+        "land_type": "Industrial",
+        "latitude": 30.320212,
+        "longitude": 78.032081,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03122246928571,
+                30.31956470392345
+              ],
+              [
+                78.03294155994173,
+                30.31956470392345
+              ],
+              [
+                78.03293933951194,
+                30.3208596016694
+              ],
+              [
+                78.03125038955538,
+                30.3208596016694
+              ],
+              [
+                78.03122246928571,
+                30.31956470392345
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 86 (Synthetic)",
+        "last_survey_date": "2024-04-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03122246928571,
+              30.31956470392345
+            ],
+            [
+              78.03294155994173,
+              30.31956470392345
+            ],
+            [
+              78.03293933951194,
+              30.3208596016694
+            ],
+            [
+              78.03125038955538,
+              30.3208596016694
+            ],
+            [
+              78.03122246928571,
+              30.31956470392345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00087",
+      "properties": {
+        "parcel_id": "P-00087",
+        "survey_number": "241/4C",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 4.99,
+        "land_type": "Residential",
+        "latitude": 30.319914,
+        "longitude": 78.036527,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03578818111423,
+                30.31904900731736
+              ],
+              [
+                78.03719167667533,
+                30.31904900731736
+              ],
+              [
+                78.03726665733534,
+                30.320778619824992
+              ],
+              [
+                78.03586317168578,
+                30.320778619824992
+              ],
+              [
+                78.03578818111423,
+                30.31904900731736
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 87 (Synthetic)",
+        "last_survey_date": "2024-02-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03578818111423,
+              30.31904900731736
+            ],
+            [
+              78.03719167667533,
+              30.31904900731736
+            ],
+            [
+              78.03726665733534,
+              30.320778619824992
+            ],
+            [
+              78.03586317168578,
+              30.320778619824992
+            ],
+            [
+              78.03578818111423,
+              30.31904900731736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00088",
+      "properties": {
+        "parcel_id": "P-00088",
+        "survey_number": "53/2D",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 4.46,
+        "land_type": "Forest / Green Belt",
+        "latitude": 30.319932,
+        "longitude": 78.040445,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03972100085358,
+                30.319366818791764
+              ],
+              [
+                78.040992169476,
+                30.319366818791764
+              ],
+              [
+                78.04116817708481,
+                30.32049693424534
+              ],
+              [
+                78.03953835100404,
+                30.32049693424534
+              ],
+              [
+                78.03972100085358,
+                30.319366818791764
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 88 (Synthetic)",
+        "last_survey_date": "2024-07-11",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03972100085358,
+              30.319366818791764
+            ],
+            [
+              78.040992169476,
+              30.319366818791764
+            ],
+            [
+              78.04116817708481,
+              30.32049693424534
+            ],
+            [
+              78.03953835100404,
+              30.32049693424534
+            ],
+            [
+              78.03972100085358,
+              30.319366818791764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00089",
+      "properties": {
+        "parcel_id": "P-00089",
+        "survey_number": "157/5E",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 7.18,
+        "land_type": "Industrial",
+        "latitude": 30.319852,
+        "longitude": 78.044278,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.04365027523498,
+                30.319023278034198
+              ],
+              [
+                78.04479525974943,
+                30.319023278034198
+              ],
+              [
+                78.0449055618018,
+                30.32068001433719
+              ],
+              [
+                78.0438069878822,
+                30.32068001433719
+              ],
+              [
+                78.04365027523498,
+                30.319023278034198
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 89 (Synthetic)",
+        "last_survey_date": "2024-04-23",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.04365027523498,
+              30.319023278034198
+            ],
+            [
+              78.04479525974943,
+              30.319023278034198
+            ],
+            [
+              78.0449055618018,
+              30.32068001433719
+            ],
+            [
+              78.0438069878822,
+              30.32068001433719
+            ],
+            [
+              78.04365027523498,
+              30.319023278034198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00090",
+      "properties": {
+        "parcel_id": "P-00090",
+        "survey_number": "297/9A",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 11.56,
+        "land_type": "Residential",
+        "latitude": 30.323026,
+        "longitude": 78.032629,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03163140781703,
+                30.32239252996888
+              ],
+              [
+                78.03349892719376,
+                30.32239252996888
+              ],
+              [
+                78.03362676076497,
+                30.323659977694035
+              ],
+              [
+                78.03155032830789,
+                30.323659977694035
+              ],
+              [
+                78.03163140781703,
+                30.32239252996888
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 90 (Synthetic)",
+        "last_survey_date": "2024-03-28",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03163140781703,
+              30.32239252996888
+            ],
+            [
+              78.03349892719376,
+              30.32239252996888
+            ],
+            [
+              78.03362676076497,
+              30.323659977694035
+            ],
+            [
+              78.03155032830789,
+              30.323659977694035
+            ],
+            [
+              78.03163140781703,
+              30.32239252996888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00091",
+      "properties": {
+        "parcel_id": "P-00091",
+        "survey_number": "346/7B",
+        "village": "Chandpur",
+        "district": "Dehradun",
+        "area_acres": 4.59,
+        "land_type": "Commercial",
+        "latitude": 30.32307,
+        "longitude": 78.036441,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                78.03535788286787,
+                30.322523706579723
+              ],
+              [
+                78.03753624832585,
+                30.322523706579723
+              ],
+              [
+                78.03752405525039,
+                30.32361546426278
+              ],
+              [
+                78.03540740510559,
+                30.32361546426278
+              ],
+              [
+                78.03535788286787,
+                30.322523706579723
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 91 (Synthetic)",
+        "last_survey_date": "2024-02-11",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.03535788286787,
+              30.322523706579723
+            ],
+            [
+              78.03753624832585,
+              30.322523706579723
+            ],
+            [
+              78.03752405525039,
+              30.32361546426278
+            ],
+            [
+              78.03540740510559,
+              30.32361546426278
+            ],
+            [
+              78.03535788286787,
+              30.322523706579723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00092",
+      "properties": {
+        "parcel_id": "P-00092",
+        "survey_number": "89/3C",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 3.78,
+        "land_type": "Commercial",
+        "latitude": 20.462754,
+        "longitude": 85.88235,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88180081357592,
+                20.46203287939196
+              ],
+              [
+                85.8828683173182,
+                20.46203287939196
+              ],
+              [
+                85.88289871140896,
+                20.463475992366288
+              ],
+              [
+                85.88175798317295,
+                20.463475992366288
+              ],
+              [
+                85.88180081357592,
+                20.46203287939196
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 92 (Synthetic)",
+        "last_survey_date": "2024-06-23",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88180081357592,
+              20.46203287939196
+            ],
+            [
+              85.8828683173182,
+              20.46203287939196
+            ],
+            [
+              85.88289871140896,
+              20.463475992366288
+            ],
+            [
+              85.88175798317295,
+              20.463475992366288
+            ],
+            [
+              85.88180081357592,
+              20.46203287939196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00093",
+      "properties": {
+        "parcel_id": "P-00093",
+        "survey_number": "66/5D",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 0.59,
+        "land_type": "Agricultural",
+        "latitude": 20.462678,
+        "longitude": 85.886893,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88607697378612,
+                20.462024008197005
+              ],
+              [
+                85.88759750208888,
+                20.462024008197005
+              ],
+              [
+                85.88770929471468,
+                20.46333242758886
+              ],
+              [
+                85.8858831955228,
+                20.46333242758886
+              ],
+              [
+                85.88607697378612,
+                20.462024008197005
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 93 (Synthetic)",
+        "last_survey_date": "2024-03-18",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88607697378612,
+              20.462024008197005
+            ],
+            [
+              85.88759750208888,
+              20.462024008197005
+            ],
+            [
+              85.88770929471468,
+              20.46333242758886
+            ],
+            [
+              85.8858831955228,
+              20.46333242758886
+            ],
+            [
+              85.88607697378612,
+              20.462024008197005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00094",
+      "properties": {
+        "parcel_id": "P-00094",
+        "survey_number": "158/6E",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 10.5,
+        "land_type": "Forest / Green Belt",
+        "latitude": 20.46212,
+        "longitude": 85.890797,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.8900389923218,
+                20.461555391492826
+              ],
+              [
+                85.89156881127457,
+                20.461555391492826
+              ],
+              [
+                85.89155577833542,
+                20.462684577194583
+              ],
+              [
+                85.89014694803538,
+                20.462684577194583
+              ],
+              [
+                85.8900389923218,
+                20.461555391492826
+              ]
+            ]
+          ]
+        },
+        "status": "Surveyed",
+        "risk_level": "MEDIUM",
+        "owner_name": "Landowner 94 (Synthetic)",
+        "last_survey_date": "2024-07-11",
+        "latest_change": "Land-use update",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.8900389923218,
+              20.461555391492826
+            ],
+            [
+              85.89156881127457,
+              20.461555391492826
+            ],
+            [
+              85.89155577833542,
+              20.462684577194583
+            ],
+            [
+              85.89014694803538,
+              20.462684577194583
+            ],
+            [
+              85.8900389923218,
+              20.461555391492826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00095",
+      "properties": {
+        "parcel_id": "P-00095",
+        "survey_number": "233/1A",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 1.88,
+        "land_type": "Residential",
+        "latitude": 20.46246,
+        "longitude": 85.894378,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.89369002623347,
+                20.461745112107202
+              ],
+              [
+                85.89502746814408,
+                20.461745112107202
+              ],
+              [
+                85.89506569899028,
+                20.463174396393505
+              ],
+              [
+                85.89363396956585,
+                20.463174396393505
+              ],
+              [
+                85.89369002623347,
+                20.461745112107202
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 95 (Synthetic)",
+        "last_survey_date": "2024-03-24",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.89369002623347,
+              20.461745112107202
+            ],
+            [
+              85.89502746814408,
+              20.461745112107202
+            ],
+            [
+              85.89506569899028,
+              20.463174396393505
+            ],
+            [
+              85.89363396956585,
+              20.463174396393505
+            ],
+            [
+              85.89369002623347,
+              20.461745112107202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00096",
+      "properties": {
+        "parcel_id": "P-00096",
+        "survey_number": "195/2B",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 4.57,
+        "land_type": "Water Body",
+        "latitude": 20.465937,
+        "longitude": 85.882406,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88164445721723,
+                20.465236486871408
+              ],
+              [
+                85.88299872788456,
+                20.465236486871408
+              ],
+              [
+                85.88316726904957,
+                20.466636936687724
+              ],
+              [
+                85.88149624745076,
+                20.466636936687724
+              ],
+              [
+                85.88164445721723,
+                20.465236486871408
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 96 (Synthetic)",
+        "last_survey_date": "2024-02-26",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88164445721723,
+              20.465236486871408
+            ],
+            [
+              85.88299872788456,
+              20.465236486871408
+            ],
+            [
+              85.88316726904957,
+              20.466636936687724
+            ],
+            [
+              85.88149624745076,
+              20.466636936687724
+            ],
+            [
+              85.88164445721723,
+              20.465236486871408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00097",
+      "properties": {
+        "parcel_id": "P-00097",
+        "survey_number": "334/2C",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 3.34,
+        "land_type": "Government",
+        "latitude": 20.466031,
+        "longitude": 85.886494,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88552816676868,
+                20.465355054953292
+              ],
+              [
+                85.88764292998349,
+                20.465355054953292
+              ],
+              [
+                85.88745964064388,
+                20.466706154688246
+              ],
+              [
+                85.88546998957821,
+                20.466706154688246
+              ],
+              [
+                85.88552816676868,
+                20.465355054953292
+              ]
+            ]
+          ]
+        },
+        "status": "Pending Survey",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 97 (Synthetic)",
+        "last_survey_date": "2024-03-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88552816676868,
+              20.465355054953292
+            ],
+            [
+              85.88764292998349,
+              20.465355054953292
+            ],
+            [
+              85.88745964064388,
+              20.466706154688246
+            ],
+            [
+              85.88546998957821,
+              20.466706154688246
+            ],
+            [
+              85.88552816676868,
+              20.465355054953292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00098",
+      "properties": {
+        "parcel_id": "P-00098",
+        "survey_number": "345/2D",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 8.22,
+        "land_type": "Forest / Green Belt",
+        "latitude": 20.465677,
+        "longitude": 85.891073,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.89027637787424,
+                20.46479992321632
+              ],
+              [
+                85.8919732691641,
+                20.46479992321632
+              ],
+              [
+                85.89186931830426,
+                20.466554369041567
+              ],
+              [
+                85.89029681577145,
+                20.466554369041567
+              ],
+              [
+                85.89027637787424,
+                20.46479992321632
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 98 (Synthetic)",
+        "last_survey_date": "2024-06-14",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.89027637787424,
+              20.46479992321632
+            ],
+            [
+              85.8919732691641,
+              20.46479992321632
+            ],
+            [
+              85.89186931830426,
+              20.466554369041567
+            ],
+            [
+              85.89029681577145,
+              20.466554369041567
+            ],
+            [
+              85.89027637787424,
+              20.46479992321632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00099",
+      "properties": {
+        "parcel_id": "P-00099",
+        "survey_number": "235/2E",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 5.92,
+        "land_type": "Commercial",
+        "latitude": 20.465969,
+        "longitude": 85.894931,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.89395358731254,
+                20.46517321120511
+              ],
+              [
+                85.89584995981657,
+                20.46517321120511
+              ],
+              [
+                85.89590918292753,
+                20.466764630961936
+              ],
+              [
+                85.89412391105007,
+                20.466764630961936
+              ],
+              [
+                85.89395358731254,
+                20.46517321120511
+              ]
+            ]
+          ]
+        },
+        "status": "Under Review",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 99 (Synthetic)",
+        "last_survey_date": "2024-02-12",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.89395358731254,
+              20.46517321120511
+            ],
+            [
+              85.89584995981657,
+              20.46517321120511
+            ],
+            [
+              85.89590918292753,
+              20.466764630961936
+            ],
+            [
+              85.89412391105007,
+              20.466764630961936
+            ],
+            [
+              85.89395358731254,
+              20.46517321120511
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00100",
+      "properties": {
+        "parcel_id": "P-00100",
+        "survey_number": "324/9A",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 8.32,
+        "land_type": "Forest / Green Belt",
+        "latitude": 20.469384,
+        "longitude": 85.88288,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88180779052138,
+                20.46851502195384
+              ],
+              [
+                85.88376927737899,
+                20.46851502195384
+              ],
+              [
+                85.88395286829345,
+                20.47025394299932
+              ],
+              [
+                85.88164417053875,
+                20.47025394299932
+              ],
+              [
+                85.88180779052138,
+                20.46851502195384
+              ]
+            ]
+          ]
+        },
+        "status": "Verified",
+        "risk_level": "LOW",
+        "owner_name": "Landowner 100 (Synthetic)",
+        "last_survey_date": "2024-09-14",
+        "latest_change": "No significant change",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88180779052138,
+              20.46851502195384
+            ],
+            [
+              85.88376927737899,
+              20.46851502195384
+            ],
+            [
+              85.88395286829345,
+              20.47025394299932
+            ],
+            [
+              85.88164417053875,
+              20.47025394299932
+            ],
+            [
+              85.88180779052138,
+              20.46851502195384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "P-00101",
+      "properties": {
+        "parcel_id": "P-00101",
+        "survey_number": "41/8B",
+        "village": "Sundarpur",
+        "district": "Cuttack",
+        "area_acres": 8.99,
+        "land_type": "Government",
+        "latitude": 20.469104,
+        "longitude": 85.887199,
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                85.88649306416846,
+                20.46824634410269
+              ],
+              [
+                85.88790700910006,
+                20.46824634410269
+              ],
+              [
+                85.88790518949946,
+                20.469960659651854
+              ],
+              [
+                85.88662404060389,
+                20.469960659651854
+              ],
+              [
+                85.88649306416846,
+                20.46824634410269
+              ]
+            ]
+          ]
+        },
+        "status": "Disputed",
+        "risk_level": "HIGH",
+        "owner_name": "Landowner 101 (Synthetic)",
+        "last_survey_date": "2024-09-15",
+        "latest_change": "Unauthorized structure detected",
+        "is_demo_target": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.88649306416846,
+              20.46824634410269
+            ],
+            [
+              85.88790700910006,
+              20.46824634410269
+            ],
+            [
+              85.88790518949946,
+              20.469960659651854
+            ],
+            [
+              85.88662404060389,
+              20.469960659651854
+            ],
+            [
+              85.88649306416846,
+              20.46824634410269
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
