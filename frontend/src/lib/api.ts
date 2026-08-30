@@ -1,6 +1,7 @@
 import { Parcel, Alert, CitizenReport, DashboardStats, AIAnalysisResult } from '../types';
 
 const API_BASE = '/api';
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 export async function fetchParcels(params?: { village?: string; land_type?: string; risk?: string; search?: string }): Promise<Parcel[]> {
   try {
@@ -11,7 +12,7 @@ export async function fetchParcels(params?: { village?: string; land_type?: stri
   } catch (err) {
     try {
       // Fallback to static public 1000 Tamil Nadu parcels dataset
-      const resStatic = await fetch('/parcels.json');
+      const resStatic = await fetch(`${BASE_PATH}/parcels.json`);
       if (resStatic.ok) {
         return await resStatic.json();
       }

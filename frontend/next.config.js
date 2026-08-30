@@ -13,11 +13,15 @@ if (isGithubActions && process.env.GITHUB_REPOSITORY) {
 const nextConfig = {
   reactStrictMode: false,
   output: 'export',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
   basePath: basePath,
   assetPrefix: assetPrefix,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
 };
 
 module.exports = nextConfig;

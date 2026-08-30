@@ -81,9 +81,10 @@ export default function GISMapComponent() {
       .finally(() => setIsLoading(false));
 
     // Load 1,000 Tamil Nadu GeoJSON boundary polygons
-    fetch('/parcels.geojson')
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+    fetch(`${basePath}/parcels.geojson`)
       .then(res => {
-        if (!res.ok) return fetch('/api/map/geojson').then(r => r.json());
+        if (!res.ok) return fetch(`${basePath}/api/map/geojson`).then(r => r.json());
         return res.json();
       })
       .then(data => setGeojson(data))
