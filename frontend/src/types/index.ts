@@ -3,22 +3,134 @@ export interface ParcelGeometry {
   coordinates: number[][][];
 }
 
+export interface ParcelOwnership {
+  owner_name: string;
+  ownership_type: string;
+  owner_count: number;
+  ownership_status: string;
+  ror_status: string;
+  mutation_status: string;
+}
+
+export interface ParcelRegistration {
+  reg_status: string;
+  reg_number: string;
+  reg_date: string;
+  doc_type: string;
+  previous_tx_status: string;
+  latest_tx: string;
+}
+
+export interface ParcelEncumbrance {
+  encumbrance_status: string;
+  mortgage_status: string;
+  active_loan: string;
+  litigation_status: string;
+  legal_restrictions: string;
+}
+
+export interface ParcelLandUseZoning {
+  current_land_use: string;
+  zoning_classification: string;
+  development_zone: string;
+  building_permission: string;
+  master_plan_zone: string;
+  construction_restrictions: string;
+}
+
+export interface ParcelPropertyTax {
+  tax_status: string;
+  last_payment_date: string;
+  outstanding_amount: number;
+  tax_assessment_number: string;
+}
+
+export interface ParcelSpatialData {
+  perimeter_meters: number;
+  boundary_coords_summary: string;
+  nearby_roads: string;
+  nearby_buildings: string;
+  nearby_waterbodies: string;
+}
+
+export interface ParcelChangeDetection {
+  prev_image_date: string;
+  curr_image_date: string;
+  detected_changes: string;
+  building_detection: string;
+  boundary_detection: string;
+  confidence_score: number;
+}
+
+export interface ParcelAIRisk {
+  risk_score: number;
+  risk_level: 'LOW' | 'MEDIUM' | 'HIGH' | string;
+  positive_factors: string[];
+  risk_factors: string[];
+  disclaimer: string;
+}
+
+export interface ParcelCrossDept {
+  revenue_records: string;
+  cadastral_map: string;
+  registration_records: string;
+  land_use: string;
+  property_tax: string;
+  spatial_data: string;
+}
+
+export interface ParcelTimelineEvent {
+  year: string;
+  title: string;
+  description: string;
+  status: string;
+}
+
+export interface ParcelDocument {
+  doc_id: string;
+  name: string;
+  type: string;
+  date: string;
+  status: string;
+}
+
 export interface Parcel {
   parcel_id: string;
+  ulpin?: string;
   survey_number: string;
+  sub_division?: string;
   village: string;
+  taluk?: string;
   district: string;
+  ward?: string;
+  state?: string;
   area_acres: number;
+  area_hectares?: number;
   land_type: string;
   latitude: number;
   longitude: number;
   geometry: ParcelGeometry;
   status: string;
   risk_level: 'LOW' | 'MEDIUM' | 'HIGH' | string;
+  risk_score?: number;
+  last_updated?: string;
   owner_name?: string;
   last_survey_date?: string;
   latest_change?: string;
   is_demo_target?: boolean;
+  
+  // Detailed 21-Section Metadata
+  ownership?: ParcelOwnership;
+  registration?: ParcelRegistration;
+  encumbrance?: ParcelEncumbrance;
+  land_use_zoning?: ParcelLandUseZoning;
+  property_tax?: ParcelPropertyTax;
+  spatial_data?: ParcelSpatialData;
+  change_detection?: ParcelChangeDetection;
+  ai_risk?: ParcelAIRisk;
+  cross_dept_verification?: ParcelCrossDept;
+  timeline?: ParcelTimelineEvent[];
+  documents?: ParcelDocument[];
 }
 
 export interface Alert {
