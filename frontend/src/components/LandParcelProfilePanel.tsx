@@ -88,16 +88,19 @@ export default function LandParcelProfilePanel({ parcel: rawParcel, onClose, onR
   };
 
   return (
-    <div className="w-full h-full bg-bhoomi-card/95 backdrop-blur-xl border-l border-bhoomi-border shadow-2xl flex flex-col overflow-hidden text-white">
+    <div className="w-full h-full bg-bhoomi-card/95 backdrop-blur-xl border-t md:border-t-0 md:border-l border-bhoomi-border shadow-2xl flex flex-col overflow-hidden text-white rounded-t-2xl md:rounded-none">
+      {/* Mobile Drawer Pull Indicator */}
+      <div className="md:hidden w-12 h-1 bg-gray-500/50 rounded-full mx-auto my-1.5 shrink-0" />
+
       {/* 1. Header */}
-      <div className="p-4 border-b border-bhoomi-border bg-bhoomi-dark/60 flex items-center justify-between shrink-0">
+      <div className="p-3.5 border-b border-bhoomi-border bg-bhoomi-dark/60 flex items-center justify-between shrink-0">
         <div className="flex items-center space-x-3">
-          <div className="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400">
-            <Shield className="w-5 h-5" />
+          <div className="w-9 h-9 rounded-xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shrink-0">
+            <Shield className="w-4 h-4" />
           </div>
           <div>
             <div className="flex items-center space-x-2">
-              <h2 className="font-bold text-base tracking-wide font-mono text-emerald-400">{p.ulpin}</h2>
+              <h2 className="font-bold text-sm sm:text-base tracking-wide font-mono text-emerald-400">{p.ulpin}</h2>
               <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold ${
                 p.status === 'Verified' ? 'bg-emerald-500/20 text-emerald-300 border border-emerald-500/40' :
                 p.status === 'Under Review' ? 'bg-amber-500/20 text-amber-300 border border-amber-500/40' :
@@ -106,25 +109,27 @@ export default function LandParcelProfilePanel({ parcel: rawParcel, onClose, onR
                 ✓ {p.status}
               </span>
             </div>
-            <p className="text-xs text-gray-400">Survey No. {p.survey_number} ({p.sub_division}) • {p.village}, {p.district}</p>
+            <p className="text-[11px] text-gray-400 truncate max-w-[200px] sm:max-w-none">
+              Survey No. {p.survey_number} ({p.sub_division}) • {p.village}, {p.district}
+            </p>
           </div>
         </div>
 
-        <div className="flex items-center space-x-1.5">
+        <div className="flex items-center space-x-1 shrink-0">
           {onResetSelection && (
             <button
               onClick={onResetSelection}
               title="Reset Selection"
-              className="p-1.5 text-gray-400 hover:text-white rounded-lg hover:bg-bhoomi-hover transition-colors"
+              className="w-8 h-8 flex items-center justify-center text-gray-400 hover:text-white rounded-lg hover:bg-bhoomi-hover transition-colors"
             >
               <RefreshCw className="w-4 h-4" />
             </button>
           )}
           <button
             onClick={onClose}
-            className="p-1.5 text-gray-400 hover:text-white rounded-lg hover:bg-bhoomi-hover transition-colors"
+            className="w-8 h-8 flex items-center justify-center text-gray-400 hover:text-white rounded-lg hover:bg-bhoomi-hover transition-colors"
           >
-            <X className="w-5 h-5" />
+            <X className="w-4 h-4" />
           </button>
         </div>
       </div>

@@ -148,39 +148,39 @@ export default function GISMapComponent() {
   };
 
   return (
-    <div className="relative w-full h-[calc(100vh-6rem)] rounded-2xl overflow-hidden border border-bhoomi-border shadow-2xl flex">
-      {/* Map Control Bar Overlay */}
-      <div className="absolute top-4 left-4 z-[1000] flex flex-wrap items-center gap-2 bg-bhoomi-card/90 backdrop-blur-md p-2.5 rounded-xl border border-bhoomi-border shadow-2xl max-w-full">
-        {/* Search */}
-        <div className="relative">
+    <div className="relative w-full h-[calc(100vh-6rem)] rounded-2xl overflow-hidden border border-bhoomi-border shadow-2xl flex flex-col md:flex-row">
+      {/* Responsive Control Toolbar Overlay */}
+      <div className="absolute top-3 left-3 right-3 sm:right-auto z-[1000] flex items-center gap-2 bg-bhoomi-card/95 backdrop-blur-xl p-2 rounded-xl border border-bhoomi-border shadow-2xl overflow-x-auto scrollbar-none max-w-full">
+        {/* Search Input (Height: h-9) */}
+        <div className="relative shrink-0">
           <input
             type="text"
             value={searchQuery}
             onChange={e => setSearchQuery(e.target.value)}
-            placeholder="Search ULPIN / Survey / District..."
-            className="bg-bhoomi-dark text-xs text-white placeholder-gray-500 pl-8 pr-3 py-1.5 rounded-lg border border-bhoomi-border focus:border-emerald-500 focus:outline-none w-52"
+            placeholder="Search ULPIN / Survey..."
+            className="bg-bhoomi-dark text-xs text-white placeholder-gray-500 pl-8 pr-3 h-9 rounded-lg border border-bhoomi-border focus:border-emerald-500 focus:outline-none w-44 sm:w-52"
           />
-          <Search className="w-3.5 h-3.5 text-gray-500 absolute left-2.5 top-2" />
+          <Search className="w-3.5 h-3.5 text-gray-500 absolute left-2.5 top-2.5" />
         </div>
 
-        {/* District Filter */}
+        {/* District Filter (Height: h-9) */}
         <select
           value={selectedDistrict}
           onChange={e => setSelectedDistrict(e.target.value)}
-          className="bg-bhoomi-dark text-xs text-gray-200 px-2.5 py-1.5 rounded-lg border border-bhoomi-border focus:outline-none font-medium"
+          className="bg-bhoomi-dark text-xs text-gray-200 px-3 h-9 rounded-lg border border-bhoomi-border focus:outline-none font-medium shrink-0"
         >
           {TN_DISTRICTS.map(d => (
             <option key={d} value={d}>
-              {d === 'ALL' ? 'All TN Districts' : d}
+              {d === 'ALL' ? 'All Districts' : d}
             </option>
           ))}
         </select>
 
-        {/* Risk Filter */}
+        {/* Risk Filter (Height: h-9) */}
         <select
           value={selectedRisk}
           onChange={e => setSelectedRisk(e.target.value)}
-          className="bg-bhoomi-dark text-xs text-gray-200 px-2.5 py-1.5 rounded-lg border border-bhoomi-border focus:outline-none font-medium"
+          className="bg-bhoomi-dark text-xs text-gray-200 px-3 h-9 rounded-lg border border-bhoomi-border focus:outline-none font-medium shrink-0"
         >
           <option value="ALL">All Risk Levels</option>
           <option value="HIGH">HIGH Risk</option>
@@ -188,26 +188,26 @@ export default function GISMapComponent() {
           <option value="LOW">LOW Risk</option>
         </select>
 
-        {/* Map Layer Switcher */}
+        {/* Map Layer Switcher Button (Height: h-9) */}
         <button
           onClick={() => setMapLayer(mapLayer === 'OSM' ? 'SATELLITE' : 'OSM')}
-          className="flex items-center space-x-1.5 bg-bhoomi-dark hover:bg-bhoomi-hover text-emerald-400 text-xs font-semibold px-3 py-1.5 rounded-lg border border-bhoomi-border transition-colors"
+          className="flex items-center justify-center space-x-1.5 bg-bhoomi-dark hover:bg-bhoomi-hover text-emerald-400 text-xs font-semibold px-3 h-9 rounded-lg border border-bhoomi-border transition-colors shrink-0 whitespace-nowrap"
         >
           <Layers className="w-3.5 h-3.5" />
           <span>{mapLayer === 'OSM' ? 'Satellite View' : 'Map Vector'}</span>
         </button>
 
-        {/* Reset Selection */}
+        {/* Reset Selection Button (Height: h-9) */}
         <button
           onClick={handleResetSelection}
-          className="flex items-center space-x-1 bg-bhoomi-dark hover:bg-bhoomi-hover text-gray-300 text-xs font-medium px-2.5 py-1.5 rounded-lg border border-bhoomi-border transition-colors"
+          className="flex items-center justify-center space-x-1.5 bg-bhoomi-dark hover:bg-bhoomi-hover text-gray-300 text-xs font-medium px-3 h-9 rounded-lg border border-bhoomi-border transition-colors shrink-0 whitespace-nowrap"
           title="Reset Map View & Selection"
         >
           <RefreshCw className="w-3.5 h-3.5 text-gray-400" />
           <span>Reset</span>
         </button>
 
-        {/* Target Demo Quick Jump */}
+        {/* Target Demo Quick Jump Button (Height: h-9) */}
         <button
           onClick={() => {
             const demo = parcels.find(p => p.parcel_id === 'P-00102' || p.ulpin === 'TN-CBE-123456789');
@@ -217,7 +217,7 @@ export default function GISMapComponent() {
               setMapZoom(16);
             }
           }}
-          className="flex items-center space-x-1 bg-rose-500/20 hover:bg-rose-500/40 text-rose-300 text-xs font-bold px-3 py-1.5 rounded-lg border border-rose-500/40 transition-colors"
+          className="flex items-center justify-center space-x-1.5 bg-rose-500/20 hover:bg-rose-500/40 text-rose-300 text-xs font-bold px-3 h-9 rounded-lg border border-rose-500/40 transition-colors shrink-0 whitespace-nowrap"
         >
           <Sparkles className="w-3.5 h-3.5 text-rose-400" />
           <span>TN Demo 124/2A</span>
@@ -259,7 +259,7 @@ export default function GISMapComponent() {
 
       {/* Interactive Land Parcel Details Panel (Desktop: Right-Side Panel / Mobile: Bottom Sheet Drawer) */}
       {selectedParcel && (
-        <div className="w-full md:max-w-md lg:max-w-lg h-full absolute md:relative right-0 bottom-0 z-[1100]">
+        <div className="w-full md:max-w-md lg:max-w-lg h-[82vh] md:h-full fixed md:relative bottom-0 right-0 z-[1100] transition-all duration-300 shadow-2xl">
           <LandParcelProfilePanel
             parcel={selectedParcel}
             onClose={() => setSelectedParcel(null)}
