@@ -1,18 +1,23 @@
 /** @type {import('next').NextConfig} */
+const isGithubActions = process.env.GITHUB_ACTIONS || false;
+
+let basePath = '';
+let assetPrefix = '';
+
+if (isGithubActions && process.env.GITHUB_REPOSITORY) {
+  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '');
+  basePath = `/${repo}`;
+  assetPrefix = `/${repo}/`;
+}
+
 const nextConfig = {
   reactStrictMode: false,
-  async rewrites() {
-    return [
-      {
-        source: '/api/:path*',
-        destination: 'http://127.0.0.1:8000/api/:path*',
-      },
-      {
-        source: '/static/:path*',
-        destination: 'http://127.0.0.1:8000/static/:path*',
-      },
-    ];
+  output: 'export',
+  images: {
+    unoptimized: true,
   },
+  basePath: basePath,
+  assetPrefix: assetPrefix,
 };
 
 module.exports = nextConfig;
